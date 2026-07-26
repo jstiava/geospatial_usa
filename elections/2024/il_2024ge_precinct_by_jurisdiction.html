@@ -1,0 +1,556 @@
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
+	Election Vote Totals by Precinct
+</title><meta name="viewport" content="width=device-width,initial-scale=1"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="Page-Enter" content="blendTrans(Duration=0)"><meta http-equiv="Page-Exit" content="blendTrans(Duration=0)"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"><meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes">
+
+        
+        
+        
+        
+        <!-- COMMENT OUT TO DISABLE MOBILE -->
+        
+
+        <!-- ### F A V I C O N   S T U F F -->
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png"><link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"><link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"><link rel="manifest" href="/site.webmanifest"><link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5"><meta name="msapplication-TileColor" content="#2d89ef"><meta name="theme-color" content="#ffffff">
+
+        <!-- ### J Q U E R Y -->
+        <script type="text/javascript" language="javascript" src="/Scripts/jquery/jquery-3.6.0.min.js"></script>
+        
+
+<style type="text/css">
+    .website-maintenance-message {
+        position: relative;
+        text-align: left;
+        display: block;
+        margin: 30px auto 10px auto;
+        padding: 10px 20px;
+        min-height: 17px;
+        width: calc(100% - 90px);
+        font-size: 1em;
+        border-width: 1px;
+        border-style: solid;
+        font-weight: normal;
+        word-break: break-word;
+        background-color: #F5DD90;
+        color: #333;
+        border-color: #FFBF00;
+        font-weight: bold;
+    }
+</style>
+
+    <link rel="stylesheet" type="text/css" href="https://www.elections.il.gov/CSS/Fonts.css?refresh=24"><link rel="stylesheet" type="text/css" href="https://www.elections.il.gov/CSS/Colors.css?refresh=24"><link rel="stylesheet" type="text/css" href="https://www.elections.il.gov/CSS/Default.css?refresh=24"><link rel="stylesheet" type="text/css" media="print" href="https://www.elections.il.gov/CSS/print.css?refresh=24"><link rel="stylesheet" type="text/css" media="print" href="https://www.elections.il.gov/CSS/tabstyleprint.css?refresh=24"><link href="/WebResource.axd?d=DSgCKnaJlQjfnXvLWZApACsCJhm7T1QWgKYQmpdExZHjmP90Tr3M1RVqewPNe0hrJzXSzLmLTxn92EhS1-kMuxS7zyJwsxtJDcAeCKO7N_YF1C3bfelLEidT00d-_cj8eltX8Q2&amp;t=638992379633132391" type="text/css" rel="stylesheet"><link href="/WebResource.axd?d=hcXDZhXiidgsQUtEo5iT37pH9m_g-kughUrOrTn58FB3NzMq5IgzzKPygoomQm6PePxM1X8zQnGKM86YfTdxFfimRkU_i6RqFxW2sIPL3G38HrjuDxqhQAN3KNn4qPKivdmCrwR-HHTp6967hoJlg4UYUZE1&amp;t=638992379633132391" type="text/css" rel="stylesheet"></head>
+
+    <body>
+
+        <form method="post" action="./ElectionVoteTotalsPrecinct.aspx?ID=9huvqbsiUWA%3d" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="MenuTabContainer_ClientState" id="MenuTabContainer_ClientState" value="{&quot;ActiveTabIndex&quot;:-1,&quot;TabEnabledState&quot;:[true,true,true,true,true,true,true],&quot;TabWasLoadedOnceState&quot;:[true,false,false,false,false,false,false]}">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZN7L_AMWiq8d8SQxUG-4xCNZgiRYKSRt45lVeVNyI8s9-byhhA2&amp;t=639120534883439296" type="text/javascript"></script>
+
+
+<script src="../Scripts/WebForms/MsAjax/MicrosoftAjax.js" type="text/javascript"></script>
+<script src="../Scripts/WebForms/MsAjax/MicrosoftAjaxWebForms.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=eE6V8nDbUVn0gtG6hKNX_DEDu3sk1hVN0exGZHX2nVEydPcEuxFjXrHwKhjtEgnrIypDlb33-UZMBFq4KI-Sbeu2JWMkr-BuV3ei55Sr0aCbIF2F0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=mcAASOSteirJeuV-3by3UQkZnH4mZiaMR16QqHc5gRV4ooU-Viy_91svB6zq11GaiEzQy6xTnP8Tw4-KzTLSxBO8uO01&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=jwf4VSQi7LeShc44FJ-gAXEQKkDDHs6FlEwGamixx7nNN-nMGkyQQkGBE8DFdccC0sBAoQDM9I2H0rc4A8JcT241SR3sK0DiVikp6zRXmv6NtAU40&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=HEFpVKbnoeQjkjHkFKu3MHbrgoCA879G9IBzcbHUgZmixBMzLbIonX4_r3_96X2bOlbqwctnhjrvtkw61A_fSzxfdK4irBS0gga74px6HlW6cGxK0&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=ItGmCSWFnDZZrlIg2XvePwDzpxgQqYUsriuLuRs6qFPpLhA7O6Ag-Q3P8Rlm9oFCx_av1cUSzQ20zCWJMBVyAv2tlag1&amp;t=17b84382" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=hOeJu0xhC-uW6Gf8ooKdXg0c7B1GgVk5RWnIP1QOERsJjb3KcTEuWrIYTU9X_Rvv-v47a0I0EVKwnBXg1qjYiS1tdnIMzlalMqlxzWgdDxkRjcyj0&amp;t=17b84382" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="F63BD53B">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="kVdnsAyYsOQfi/8lepZk59r6/GYP+Uzq3veSfm0eAuDaYSFIRcbXoah67GshumMzSULtWxhMD7Re155EytOpDzMFMxSArh2yIVYEAflA4pFbTS32U9g27mYisiU+pkLGhiFaH6mt9FU79wdAV/0ahxtddoYnqBwF8G5Lbf9NIhYdt0C+wE1UJC2ytazt15iLdlMyEeCSKFUrJksj57ajdFapPyFpPzezWAnGuLI8gv/Rs0rTSBXnRI3Wd6VSgXW3WWR2OAhfxHgySFxrYU+5CjPht/FfdH8pKFIjIOGBvouQvElH/85YLSvp2wF/1FcBPjVNcSeP+aLM/J+u2H9m32KoreGCNPzSSNvE5hyxFYLvy1VOkC8gOq6tiLNA7cjG3A+38GAf5ZYBwaOdAB72WzfwwsjU3KKnRJ7uKP9hAe5pg1YyRkKfCTvoaMM5WjoUMlGvKSZdM3zGyBOCTEhy7c9p6H9OvxB/QqyxVFdxPnEtVuzTwd0kGnuZRM2S1CjHiAeHizelpwJAvwhBvJ432uKXhO3Lux0DegmHggfikqduHIr/NsOkGLh1LxPMKQ/TarMaHl5AsLCGYqF5y+h8nZe5Ia7A72KAdWzp3zSBcnXTzKBtgWy7BBySCIh8C2ypfe5HhM4uZoO1HoC+tBrzYJ05wb8U4iP0xGJnbvXzQxm+BW7QxZEOFtnZl/p/P1G5X2kFOO2XMtgq3Ch5hPePZR2SVc9UWuY7r8lh/Ek1Sn0aEnfJpECqQHryrdpNby2IdtGKqmR2cgvkV0Re2CvZy6hcWfIold8bytPZWs+NxCFK/5CBUWNZkdQZY2/LNjr9lOKWITBbDDAcT5wUBQEGUFzfEP8DRYP049h02XHF6Yhsu7jGC4Q3mQ4sxs+uayOI6yGa4zG9ixrZcBHKHXAz8KnmLVyL5N7WPrEOw0deAzjEOknTWtXvol+t2fzkPnfjW05FNzYalxNBvioqmmad3f8qCV0z2Ci6ejIFZ4t78WQ49Cn7rjCpuSnPe7SxZVwElJ3Avg/K0u9lIf/tk7+iCpuzwCTfKObkYHyvzxV2rrktrSjJ">
+</div>
+
+            <a href="#content" rel="noopener noreferrer" class="skipnavigation">
+                Skip to Content
+            </a>
+
+            <div id="divDEBUG" style="position: absolute; top: 65px; left: 90px; width: 44%; padding: 0px; margin: 0px; vertical-align: top; z-index: 9999;"></div>
+
+            <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$StylinScriptManager', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+
+
+            <div class="body-container">
+
+                <div id="divDebugDimensions" class="script-container" style="visibility: hidden;">
+                    <div>Width: <span id="scrWidth">863</span></div>
+                    <div>Height: <span id="scrHeight">947</span></div>
+                    <div>
+                        System Name:<br>
+                        <span id="lblSystemName">PSV-SBEWEB1</span>
+                    </div>
+                    <div>
+                        User Agent:<br>
+                        <span id="lblUserAgent"></span>
+                    </div>
+                </div>
+
+                <header>
+
+                    <div class="site-header">
+
+                        <button id="hamburger-menu" class="hamburger-menu hamburger-menu-open" type="button" aria-label="Menu"></button>
+
+                        <div class="site-header-right">
+
+                            <!-- @@@  M E N U   T O P -->
+                            <div class="site-header-right-title">
+
+                                <div class="title-text">
+                                    <a href="/Default.aspx" rel="noopener noreferrer">Illinois State Board of Elections
+                                    </a>
+                                </div>
+
+                                <!-- @@@  M E N U   S E A R C H -->
+                                <div id="pnlSiteSearchContainer" class="site-header-right-search-container">
+	
+
+                                    <span id="lblServerNumber">P1</span>
+
+                                    <div class="header-buttons">
+                                        <a href="/Default.aspx" rel="noopener noreferrer">Home</a>
+                                        <a id="hypPublicationsHeader" rel="noopener noreferrer" href="/Main/Publications.aspx">Publications</a>
+                                        <a id="hypFeedbackHeader" rel="noopener noreferrer" href="/Main/Feedback.aspx">Feedback</a>                
+                                    </div>
+
+                                    
+
+                                
+</div>
+
+                            </div>
+
+                            <!-- @@@  M E N U   M O B I L E -->
+                            
+
+                            <!-- @@@  M E N U   N A V I G A T I O N -->
+                            <nav class="site-header-right-menu site-header-right-menu-close">
+
+                                <!-- 10/19/2022 - JW - This is the new menu. -->
+                                <div class="main-menu-container">
+                                    <span id="lblNewMenu"><a href="/InformationForVoters.aspx?MID=I0cuvBFuZRw%3d" rel="noopener noreferrer">Information For Voters</a><a href="/CampaignDisclosure.aspx?MID=rfZ%2buidMSDY%3d" rel="noopener noreferrer">Campaign Disclosure</a><a href="/VotingSystems.aspx?MID=RDsPmNG6UtQ%3d" rel="noopener noreferrer">Voting Systems</a><a href="/RunningForOffice.aspx?MID=rOlNCTNZd9A%3d" rel="noopener noreferrer">Running for Office</a><a href="/CandidateFilingAndResults.aspx?MID=kvB0px3%2bckA%3d" rel="noopener noreferrer">Candidate Filing and Results</a><a href="/BEREP.aspx?MID=5kJmo5Vlmig%3d" rel="noopener noreferrer">Business Registration</a><a href="/PressRoom.aspx?MID=7gaOXOhipwU%3d" rel="noopener noreferrer">Press Room</a><a href="/Forms.aspx?MID=F1cqdrOu5Po%3d" rel="noopener noreferrer">Forms</a><a href="/AboutTheBoard.aspx?MID=cmHrvo7CZrE%3d" rel="noopener noreferrer">About The Board</a></span>
+                                </div>
+
+                                
+
+                                <!-- ### B E G I N N I N G   O F   O L D   M E N U -->
+                                <div id="MenuTabContainer" class="HoverMenuPanelHeader hide ajax__tab_xp ajax__tab_container ajax__tab_default" style="width: 100%; visibility: visible;">
+	<div id="MenuTabContainer_header" class="ajax__tab_header">
+		<span id="MenuTabContainer_MenuTabPanel0_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel0" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel0_MenuTabPanelHeader0">Tab0</div>
+                                        </span></a></span></span></span><span id="MenuTabContainer_MenuTabPanel1_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel1" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel1_MenuTabPanelHeader1">Tab1</div>
+                                        </span></a></span></span></span><span id="MenuTabContainer_MenuTabPanel2_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel2" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel2_MenuTabPanelHeader2">Tab2</div>
+                                        </span></a></span></span></span><span id="MenuTabContainer_MenuTabPanel3_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel3" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel3_MenuTabPanelHeader3">Tab3</div>
+                                        </span></a></span></span></span><span id="MenuTabContainer_MenuTabPanel4_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel4" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel4_MenuTabPanelHeader4">Tab4</div>
+                                        </span></a></span></span></span><span id="MenuTabContainer_MenuTabPanel5_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel5" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel5_MenuTabPanelHeader5">Tab5</div>
+                                        </span></a></span></span></span><span id="MenuTabContainer_MenuTabPanel6_tab" class="ajax__tab"><span class="ajax__tab_outer"><span class="ajax__tab_inner"><a class="ajax__tab_tab" id="__tab_MenuTabContainer_MenuTabPanel6" href="#" style="text-decoration:none;"><span>
+                                            <div id="MenuTabContainer_MenuTabPanel6_MenuTabPanelHeader6">Tab6</div>
+                                        </span></a></span></span></span>
+	</div><div id="MenuTabContainer_body" class="ajax__tab_body ajax__scroll_none" style="display:block;">
+		<div id="MenuTabContainer_MenuTabPanel0" class="ajax__tab_panel" style="visibility: hidden; display: none;">
+
+		</div><div id="MenuTabContainer_MenuTabPanel1" class="ajax__tab_panel" style="display:none;visibility:hidden;">
+
+		</div><div id="MenuTabContainer_MenuTabPanel2" class="ajax__tab_panel" style="display:none;visibility:hidden;">
+
+		</div><div id="MenuTabContainer_MenuTabPanel3" class="ajax__tab_panel" style="display:none;visibility:hidden;">
+
+		</div><div id="MenuTabContainer_MenuTabPanel4" class="ajax__tab_panel" style="display:none;visibility:hidden;">
+
+		</div><div id="MenuTabContainer_MenuTabPanel5" class="ajax__tab_panel" style="display:none;visibility:hidden;">
+
+		</div><div id="MenuTabContainer_MenuTabPanel6" class="ajax__tab_panel" style="display:none;visibility:hidden;">
+
+		</div>
+	</div>
+</div>
+                                <!-- ### E N D   O F   O L D   M E N U -->
+
+                            </nav>
+
+                        </div>
+
+                    </div>
+
+                </header>
+
+                
+
+                <!-- ### MAINTENANCE MESSAGE -->
+                <div id="pnlMaintenance" class="website-maintenance-message">
+	
+                    Due to planned maintenance, we will experience outages from 7:00 AM to 11:00 AM on Saturday, 07/25/2025.
+                
+</div>
+
+                <!-- ###  C O N T E N T -->
+                <a id="content" tabindex="-1"></a>
+                <main class="content-container">
+                    
+
+    <script type="text/javascript">
+
+        $(document).ready(function () {
+            $("div[class~='divElectionResultsMenuLink']").click(function () {
+                if (!$("#divSubmenu").is(":hover")) {
+                    $("#divSubmenu").toggleClass("hide");
+                };
+            });
+        });
+
+    </script>
+
+    <div id="ContentPlaceHolder1_pageTitle" class="sbePageHeader">
+        Election Results
+    </div>
+        
+        <div class="infoContainers width-33">
+            <div class="infoHeaders">
+                <span id="ContentPlaceHolder1_lblElection">2024 GENERAL ELECTION</span>
+            </div>
+        </div>
+
+        
+    <div class="gridview-links width-75">
+
+        <div class="gridview-links-left">
+            <div class="infoContainers">
+                <div class="infoContent width-100">
+                    <span>Elections: </span>
+            <select name="ctl00$ContentPlaceHolder1$ddlElections" onchange="javascript:setTimeout('__doPostBack(\'ctl00$ContentPlaceHolder1$ddlElections\',\'\')', 0)" id="ContentPlaceHolder1_ddlElections" title="Election Drop Down List">
+	<option value="69">2026 GENERAL PRIMARY</option>
+	<option value="68">2025 CONSOLIDATED ELECTION</option>
+	<option selected="selected" value="66">2024 GENERAL ELECTION</option>
+	<option value="65">2024 GENERAL PRIMARY</option>
+	<option value="64">2023 CONSOLIDATED ELECTION</option>
+	<option value="62">2022 GENERAL ELECTION</option>
+	<option value="61">2022 GENERAL PRIMARY</option>
+	<option value="59">2021 CONSOLIDATED ELECTION</option>
+	<option value="58">2020 GENERAL ELECTION</option>
+	<option value="56">2020 GENERAL PRIMARY</option>
+	<option value="55">2019 CONSOLIDATED ELECTION</option>
+	<option value="54">2018 GENERAL ELECTION</option>
+	<option value="53">2018 GENERAL PRIMARY</option>
+	<option value="51">2016 GENERAL ELECTION</option>
+	<option value="50">2016 GENERAL PRIMARY</option>
+	<option value="49">2015 SPECIAL GENERAL ELECTION</option>
+	<option value="48">2015 SPECIAL PRIMARY</option>
+	<option value="44">2015 CONSOLIDATED ELECTION</option>
+	<option value="43">2014 GENERAL ELECTION</option>
+	<option value="41">2014 GENERAL PRIMARY</option>
+	<option value="40">2013 SPECIAL GENERAL ELECTION</option>
+	<option value="38">2013 SPECIAL PRIMARY</option>
+	<option value="33">2012 GENERAL ELECTION</option>
+	<option value="32">2012 GENERAL PRIMARY</option>
+	<option value="29">2010 GENERAL ELECTION</option>
+	<option value="30">2010 SPECIAL GENERAL ELECTION</option>
+	<option value="28">2010 GENERAL PRIMARY</option>
+	<option value="27">2009 SPECIAL GENERAL ELECTION</option>
+	<option value="26">2009 SPECIAL PRIMARY</option>
+	<option value="22">2008 GENERAL ELECTION</option>
+	<option value="24">2008 SPECIAL GENERAL ELECTION</option>
+	<option value="21">2008 GENERAL PRIMARY</option>
+	<option value="23">2008 SPECIAL PRIMARY</option>
+	<option value="19">2006 GENERAL ELECTION</option>
+	<option value="18">2006 GENERAL PRIMARY</option>
+	<option value="16">2004 GENERAL ELECTION</option>
+	<option value="15">2004 GENERAL PRIMARY</option>
+	<option value="13">2002 GENERAL ELECTION</option>
+	<option value="10">2002 GENERAL PRIMARY</option>
+	<option value="8">2000 GENERAL ELECTION</option>
+	<option value="7">2000 GENERAL PRIMARY</option>
+	<option value="11">1998 GENERAL ELECTION</option>
+	<option value="12">1998 GENERAL PRIMARY</option>
+
+</select>
+        </div>
+</div>
+            </div>
+        <div class="gridview-links-right">
+            <a id="ContentPlaceHolder1_lnkDownloadVoteTotals" class="floating-link" rel="noopener noreferrer" href="DownloadVoteTotals.aspx">
+                Download Vote Totals
+            </a>
+        </div>
+
+    </div>
+
+        <br>
+
+    <!-- Menu -->
+    <div class="divElectionResultsMenu">
+
+        <a id="ContentPlaceHolder1_hypFederalStatewide" class="divElectionResultsMenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=LpWf6lpbWOfBN3kEuxRi3A%3d%3d">Federal / Statewide</a>
+
+        <a id="ContentPlaceHolder1_hypSenate" class="divElectionResultsMenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=XmLrbPr2rU0jTLF%2f7%2fJHNA%3d%3d">Senate</a>
+
+        <div id="ContentPlaceHolder1_divHouse" class="divElectionResultsMenuLink">
+            House
+            <img src="/Images/Arrows/AccordianDownWhite.png">
+
+            <div id="divSubmenu" class="hide">
+
+                <a id="ContentPlaceHolder1_hypDistrictAll" class="divSubmenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=TPsWaFcg2f%2bZHFrYI%2b6FR0aY47e3tS2y">District All</a>
+
+                <a id="ContentPlaceHolder1_hypDistrict1_25" class="divSubmenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=TPsWaFcg2f%2bZHFrYI%2b6FR4Fu5cxamu0awn%2bLrIqClxk%3d">District 1 to 25</a>
+
+                <a id="ContentPlaceHolder1_hypDistrict26_50" class="divSubmenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=TPsWaFcg2f%2bZHFrYI%2b6FRwfnukmFiAy%2bbw26pdUB0bw%3d">District 26 to 50</a>
+
+                <a id="ContentPlaceHolder1_hypDistrict51_75" class="divSubmenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=TPsWaFcg2f%2bZHFrYI%2b6FR2Cfb7mGVsUhY5%2f8M4vtZyk%3d">District 51 to 75</a>
+
+                <a id="ContentPlaceHolder1_hypDistrict76_100" class="divSubmenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=TPsWaFcg2f%2bZHFrYI%2b6FR5xMw75TpkL1Oxne%2fXomoYY%3d">District 76 to 100</a>
+
+                <a id="ContentPlaceHolder1_hypDistrict101_118" class="divSubmenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=TPsWaFcg2f%2bZHFrYI%2b6FR9%2fm6JF8Ruz9kD4ufAF0Mq8%3d">District 101 to 118</a>
+
+            </div>
+
+        </div>
+
+        <a id="ContentPlaceHolder1_hypJudicial" class="divElectionResultsMenuLink" rel="noopener noreferrer" href="ElectionVoteTotals.aspx?ID=9huvqbsiUWA%3d&amp;OfficeType=OIPn0DmJsHWCRPQwcCA4%2bK%2bzeOSGzX4E">Judicial</a>
+
+        <a id="ContentPlaceHolder1_hypCounty" class="divElectionResultsMenuLink" rel="noopener noreferrer" href="ElectionVoteTotalsCounty.aspx?ID=9huvqbsiUWA%3d">County</a>
+
+        <a id="ContentPlaceHolder1_hypSpecifyRace" class="divElectionResultsMenuLink" rel="noopener noreferrer" href="VoteTotalSearch.aspx?ID=9huvqbsiUWA%3d">Specify Race</a>
+
+        <a id="ContentPlaceHolder1_hypPrecinct" class="electionResultsActive" rel="noopener noreferrer" href="ElectionVoteTotalsPrecinct.aspx?ID=9huvqbsiUWA%3d">Precinct</a>
+
+    </div>
+
+    <div class="margin padding text-Center">
+        <a id="ContentPlaceHolder1_lnkJurisdiction" class="floating-link" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkJurisdiction','')">
+            Precinct Downloads by Jurisdiction</a>
+
+        <a id="ContentPlaceHolder1_lnkOffice" class="floating-link" href="javascript:__doPostBack('ctl00$ContentPlaceHolder1$lnkOffice','')">
+            Precinct Downloads by Office</a>
+    </div>
+
+    <br>
+
+    <div class="infoContainers width-50">
+        <div class="infoContent">
+            Please Note: Counties which have a city board of election commissioners within their boundaries will have separate result files for the county and the city.  
+                In order to have all results from within a split-jurisdiction county you must download both the county file and the city file.
+        </div>
+    </div>
+
+    <hr>
+
+
+    <div class="text-Center">
+        <div id="ContentPlaceHolder1_divJurisdictions" class="inlineBlock">
+            <div id="ContentPlaceHolder1_pnlJurisdictions" class="infoContainers infoContent">
+	
+                <div id="ContentPlaceHolder1_divJurisdictionFiles" class="inlineBlock textLeft" style="column-count: 3; column-gap: 25px; line-height: 25px; margin-left: 100px"><a href="\Downloads\ElectionOperations\ElectionResults\66\66-1-ADAMS-2024GE.csv" target="_blank" rel="noopener noreferrer">ADAMS</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-2-ALEXANDER-2024GE.csv" target="_blank" rel="noopener noreferrer">ALEXANDER</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-3-BOND-2024GE.csv" target="_blank" rel="noopener noreferrer">BOND</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-4-BOONE-2024GE.csv" target="_blank" rel="noopener noreferrer">BOONE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-5-BROWN-2024GE.csv" target="_blank" rel="noopener noreferrer">BROWN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-6-BUREAU-2024GE.csv" target="_blank" rel="noopener noreferrer">BUREAU</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-7-CALHOUN-2024GE.csv" target="_blank" rel="noopener noreferrer">CALHOUN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-8-CARROLL-2024GE.csv" target="_blank" rel="noopener noreferrer">CARROLL</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-9-CASS-2024GE.csv" target="_blank" rel="noopener noreferrer">CASS</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-10-CHAMPAIGN-2024GE.csv" target="_blank" rel="noopener noreferrer">CHAMPAIGN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-11-CHRISTIAN-2024GE.csv" target="_blank" rel="noopener noreferrer">CHRISTIAN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-104-CITY OF BLOOMINGTON-McLEAN-2024GE.csv" target="_blank" rel="noopener noreferrer">CITY OF BLOOMINGTON McLEAN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-105-CITY OF CHICAGO-COOK-2024GE.csv" target="_blank" rel="noopener noreferrer">CITY OF CHICAGO COOK</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-106-CITY OF DANVILLE-VERMILION-2024GE.csv" target="_blank" rel="noopener noreferrer">CITY OF DANVILLE VERMILION</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-107-CITY OF EAST ST. LOUIS-ST. CLAIR-2024GE.csv" target="_blank" rel="noopener noreferrer">CITY OF EAST ST. LOUIS ST. CLAIR</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-108-CITY OF GALESBURG-KNOX-2024GE.csv" target="_blank" rel="noopener noreferrer">CITY OF GALESBURG KNOX</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-110-CITY OF ROCKFORD-WINNEBAGO-2024GE.csv" target="_blank" rel="noopener noreferrer">CITY OF ROCKFORD WINNEBAGO</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-12-CLARK-2024GE.csv" target="_blank" rel="noopener noreferrer">CLARK</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-13-CLAY-2024GE.csv" target="_blank" rel="noopener noreferrer">CLAY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-14-CLINTON-2024GE.csv" target="_blank" rel="noopener noreferrer">CLINTON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-15-COLES-2024GE.csv" target="_blank" rel="noopener noreferrer">COLES</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-16-COOK-2024GE.csv" target="_blank" rel="noopener noreferrer">COOK</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-17-CRAWFORD-2024GE.csv" target="_blank" rel="noopener noreferrer">CRAWFORD</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-18-CUMBERLAND-2024GE.csv" target="_blank" rel="noopener noreferrer">CUMBERLAND</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-19-DeKALB-2024GE.csv" target="_blank" rel="noopener noreferrer">DeKALB</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-20-DeWITT-2024GE.csv" target="_blank" rel="noopener noreferrer">DeWITT</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-21-DOUGLAS-2024GE.csv" target="_blank" rel="noopener noreferrer">DOUGLAS</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-22-DuPAGE-2024GE.csv" target="_blank" rel="noopener noreferrer">DuPAGE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-23-EDGAR-2024GE.csv" target="_blank" rel="noopener noreferrer">EDGAR</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-24-EDWARDS-2024GE.csv" target="_blank" rel="noopener noreferrer">EDWARDS</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-25-EFFINGHAM-2024GE.csv" target="_blank" rel="noopener noreferrer">EFFINGHAM</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-26-FAYETTE-2024GE.csv" target="_blank" rel="noopener noreferrer">FAYETTE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-27-FORD-2024GE.csv" target="_blank" rel="noopener noreferrer">FORD</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-28-FRANKLIN-2024GE.csv" target="_blank" rel="noopener noreferrer">FRANKLIN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-29-FULTON-2024GE.csv" target="_blank" rel="noopener noreferrer">FULTON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-30-GALLATIN-2024GE.csv" target="_blank" rel="noopener noreferrer">GALLATIN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-31-GREENE-2024GE.csv" target="_blank" rel="noopener noreferrer">GREENE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-32-GRUNDY-2024GE.csv" target="_blank" rel="noopener noreferrer">GRUNDY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-33-HAMILTON-2024GE.csv" target="_blank" rel="noopener noreferrer">HAMILTON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-34-HANCOCK-2024GE.csv" target="_blank" rel="noopener noreferrer">HANCOCK</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-35-HARDIN-2024GE.csv" target="_blank" rel="noopener noreferrer">HARDIN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-36-HENDERSON-2024GE.csv" target="_blank" rel="noopener noreferrer">HENDERSON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-37-HENRY-2024GE.csv" target="_blank" rel="noopener noreferrer">HENRY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-38-IROQUOIS-2024GE.csv" target="_blank" rel="noopener noreferrer">IROQUOIS</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-39-JACKSON-2024GE.csv" target="_blank" rel="noopener noreferrer">JACKSON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-40-JASPER-2024GE.csv" target="_blank" rel="noopener noreferrer">JASPER</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-41-JEFFERSON-2024GE.csv" target="_blank" rel="noopener noreferrer">JEFFERSON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-42-JERSEY-2024GE.csv" target="_blank" rel="noopener noreferrer">JERSEY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-43-JoDAVIESS-2024GE.csv" target="_blank" rel="noopener noreferrer">JoDAVIESS</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-44-JOHNSON-2024GE.csv" target="_blank" rel="noopener noreferrer">JOHNSON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-45-KANE-2024GE.csv" target="_blank" rel="noopener noreferrer">KANE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-46-KANKAKEE-2024GE.csv" target="_blank" rel="noopener noreferrer">KANKAKEE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-47-KENDALL-2024GE.csv" target="_blank" rel="noopener noreferrer">KENDALL</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-48-KNOX-2024GE.csv" target="_blank" rel="noopener noreferrer">KNOX</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-49-LAKE-2024GE.csv" target="_blank" rel="noopener noreferrer">LAKE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-50-LaSALLE-2024GE.csv" target="_blank" rel="noopener noreferrer">LaSALLE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-51-LAWRENCE-2024GE.csv" target="_blank" rel="noopener noreferrer">LAWRENCE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-52-LEE-2024GE.csv" target="_blank" rel="noopener noreferrer">LEE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-53-LIVINGSTON-2024GE.csv" target="_blank" rel="noopener noreferrer">LIVINGSTON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-54-LOGAN-2024GE.csv" target="_blank" rel="noopener noreferrer">LOGAN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-55-MACON-2024GE.csv" target="_blank" rel="noopener noreferrer">MACON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-56-MACOUPIN-2024GE.csv" target="_blank" rel="noopener noreferrer">MACOUPIN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-57-MADISON-2024GE.csv" target="_blank" rel="noopener noreferrer">MADISON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-58-MARION-2024GE.csv" target="_blank" rel="noopener noreferrer">MARION</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-59-MARSHALL-2024GE.csv" target="_blank" rel="noopener noreferrer">MARSHALL</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-60-MASON-2024GE.csv" target="_blank" rel="noopener noreferrer">MASON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-61-MASSAC-2024GE.csv" target="_blank" rel="noopener noreferrer">MASSAC</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-62-McDONOUGH-2024GE.csv" target="_blank" rel="noopener noreferrer">McDONOUGH</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-63-McHENRY-2024GE.csv" target="_blank" rel="noopener noreferrer">McHENRY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-64-McLEAN-2024GE.csv" target="_blank" rel="noopener noreferrer">McLEAN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-65-MENARD-2024GE.csv" target="_blank" rel="noopener noreferrer">MENARD</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-66-MERCER-2024GE.csv" target="_blank" rel="noopener noreferrer">MERCER</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-67-MONROE-2024GE.csv" target="_blank" rel="noopener noreferrer">MONROE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-68-MONTGOMERY-2024GE.csv" target="_blank" rel="noopener noreferrer">MONTGOMERY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-69-MORGAN-2024GE.csv" target="_blank" rel="noopener noreferrer">MORGAN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-70-MOULTRIE-2024GE.csv" target="_blank" rel="noopener noreferrer">MOULTRIE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-71-OGLE-2024GE.csv" target="_blank" rel="noopener noreferrer">OGLE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-72-PEORIA-2024GE.csv" target="_blank" rel="noopener noreferrer">PEORIA</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-73-PERRY-2024GE.csv" target="_blank" rel="noopener noreferrer">PERRY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-74-PIATT-2024GE.csv" target="_blank" rel="noopener noreferrer">PIATT</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-75-PIKE-2024GE.csv" target="_blank" rel="noopener noreferrer">PIKE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-76-POPE-2024GE.csv" target="_blank" rel="noopener noreferrer">POPE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-77-PULASKI-2024GE.csv" target="_blank" rel="noopener noreferrer">PULASKI</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-78-PUTNAM-2024GE.csv" target="_blank" rel="noopener noreferrer">PUTNAM</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-79-RANDOLPH-2024GE.csv" target="_blank" rel="noopener noreferrer">RANDOLPH</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-80-RICHLAND-2024GE.csv" target="_blank" rel="noopener noreferrer">RICHLAND</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-81-ROCK ISLAND-2024GE.csv" target="_blank" rel="noopener noreferrer">ROCK ISLAND</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-82-SALINE-2024GE.csv" target="_blank" rel="noopener noreferrer">SALINE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-83-SANGAMON-2024GE.csv" target="_blank" rel="noopener noreferrer">SANGAMON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-84-SCHUYLER-2024GE.csv" target="_blank" rel="noopener noreferrer">SCHUYLER</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-85-SCOTT-2024GE.csv" target="_blank" rel="noopener noreferrer">SCOTT</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-86-SHELBY-2024GE.csv" target="_blank" rel="noopener noreferrer">SHELBY</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-88-ST. CLAIR-2024GE.csv" target="_blank" rel="noopener noreferrer">ST. CLAIR</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-87-STARK-2024GE.csv" target="_blank" rel="noopener noreferrer">STARK</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-89-STEPHENSON-2024GE.csv" target="_blank" rel="noopener noreferrer">STEPHENSON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-90-TAZEWELL-2024GE.csv" target="_blank" rel="noopener noreferrer">TAZEWELL</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-91-UNION-2024GE.csv" target="_blank" rel="noopener noreferrer">UNION</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-92-VERMILION-2024GE.csv" target="_blank" rel="noopener noreferrer">VERMILION</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-93-WABASH-2024GE.csv" target="_blank" rel="noopener noreferrer">WABASH</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-94-WARREN-2024GE.csv" target="_blank" rel="noopener noreferrer">WARREN</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-95-WASHINGTON-2024GE.csv" target="_blank" rel="noopener noreferrer">WASHINGTON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-96-WAYNE-2024GE.csv" target="_blank" rel="noopener noreferrer">WAYNE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-97-WHITE-2024GE.csv" target="_blank" rel="noopener noreferrer">WHITE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-98-WHITESIDE-2024GE.csv" target="_blank" rel="noopener noreferrer">WHITESIDE</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-99-WILL-2024GE.csv" target="_blank" rel="noopener noreferrer">WILL</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-100-WILLIAMSON-2024GE.csv" target="_blank" rel="noopener noreferrer">WILLIAMSON</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-101-WINNEBAGO-2024GE.csv" target="_blank" rel="noopener noreferrer">WINNEBAGO</a><br><a href="\Downloads\ElectionOperations\ElectionResults\66\66-102-WOODFORD-2024GE.csv" target="_blank" rel="noopener noreferrer">WOODFORD</a><br></div>
+            
+</div>
+
+            
+        </div>
+
+        
+    </div>
+
+                </main>
+
+                <!-- ###  F O O T E R -->
+                <footer id="divMasterPageFooter" class="footer">
+
+                    <div class="footer-container">
+
+                        <!-- ### L E F T -->
+                        <div class="footer-column">
+
+                            <div class="footer-address">
+
+                                <div class="footer-content">
+                                    <p>Springfield Office</p>
+
+                                    <div>
+                                        2329 S. MacArthur Blvd.
+                                                <br>
+                                        Springfield, IL 62704
+                                                <br>
+                                        Phone: 217-782-4141
+                                                <br>
+                                        Fax: 217-782-5959
+                                                <br>
+                                        TTY: 800-964-3013
+                                    </div>
+                                </div>
+
+                                <div class="footer-content">
+                                    <p>Chicago Office</p>
+
+                                    <div>
+                                        69 W. Washington Suite LL08
+                                                <br>
+                                        Chicago, IL 60602
+                                                <br>
+                                        Phone: 312-814-6440
+                                                <br>
+                                        Fax: 312-814-6485
+                                    </div>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                        <!-- ### C E N T E R -->
+                        <div class="footer-column">
+
+                            <div class="footer-content">
+
+                                <p>External Links</p>
+
+                                <nav>
+
+                                    <a id="hypIllinoisAmberAlert" rel="noopener noreferrer" href="http://www.amberillinois.org/" target="_blank">Illinois Amber Alert</a>
+                                        <br>
+                                    <a id="hypNationalCenterForMissingAndExploitedChildren" rel="noopener noreferrer" href="http://www.missingkids.org/home" target="_blank">National Center for Missing and Exploited Children</a>
+                                        <br>
+                                    <a id="hypIllinoisElectionStatutes" rel="noopener noreferrer" href="https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ChapterID=3&amp;ActID=170" target="_blank">Illinois Election Statutes</a>
+                                        <br>
+                                    <a id="hypFederalElectionCommission" rel="noopener noreferrer" href="https://www.fec.gov/" target="_blank">Federal Election Commission</a>
+                                        <br>
+                                    <a id="hypStateOfIllinoisHomepage" rel="noopener noreferrer" href="https://www2.illinois.gov/" target="_blank">State of Illinois Homepage</a>
+                                        <br>
+                                    <a id="hypElectionAssistanceCommission" rel="noopener noreferrer" href="https://www.eac.gov/" target="_blank">Election Assistance Commission</a>
+
+                                </nav>
+
+                            </div>
+
+                        </div>
+
+                        <!-- ### R I G H T -->
+                        <div class="footer-column">
+
+                            <div class="footer-content">
+
+                                <nav>                            
+
+                                    <a id="hypContactUsFooter" rel="noopener noreferrer" href="/Main/ContactUs.aspx">Contact Us</a>
+
+                                    <br>
+                                
+                                    <a id="hypEmploymentOpportunitiesFooter" rel="noopener noreferrer" href="/AboutTheBoard/EmploymentOpportunities.aspx">Employment Opportunities</a>
+
+                                    <br>
+
+                                   <a id="hypFeedbackFooter" rel="noopener noreferrer" href="/Main/Feedback.aspx">Feedback</a>
+
+                                    <br>
+                               
+                                    <a id="hypPublicationsFooter" rel="noopener noreferrer" href="/Main/Publications.aspx">Publications</a>
+
+                                    <br>
+
+                                    <a id="hypGlossaryFooter" rel="noopener noreferrer" href="/Main/Glossary.aspx">Glossary</a>
+
+                                    <br>
+
+                                    <a id="hypFAQFooter" rel="noopener noreferrer" href="/Main/FAQ.aspx">Frequently Asked Questions</a>
+
+                                </nav>
+
+                                <nav class="footer-social">
+                                    <a id="hypFacebook" rel="noopener noreferrer" href="https://facebook.com/illinoissbe" target="_blank"><img src="/Images/Redesign/Social Media/social-facebook.png" alt="Facebook"></a>
+                                        &nbsp;
+                                    <a id="hypTwitter" rel="noopener noreferrer" href="https://twitter.com/illinoissbe" target="_blank"><img src="/Images/Redesign/Social Media/social-twitter.png" alt="Twitter"></a>
+                                        &nbsp;
+                                    <a id="hypYoutube" rel="noopener noreferrer" href="https://www.youtube.com/channel/UCtUHF1XFzIvPGmMOp0ohOCQ" target="_blank"><img src="/Images/Redesign/Social Media/social-youtube.png" alt="YouTube"></a>
+                                </nav>
+
+                            </div>
+
+                        </div>
+
+                    </div> <!-- // F O O T E R - C O N T A I N E R -->
+                    
+
+                </footer> <!-- // F O O T E R -->
+                
+
+            </div> <!-- // B O D Y   C O N T A I N E R -->
+
+        
+
+<script type="text/javascript">
+//<![CDATA[
+var SBEIsMobileDevice = false;
+var SBEIsRobot = false;
+var SBEIsDEBUGMobile = false;
+function IsMobileUserAgent() {
+    var mobileWidth = 600;
+    var blnIsMobileUserAgent = SBEIsMobileDevice;
+    if ((!(SBEIsMobileDevice)) && (window.innerWidth != undefined)) {
+        blnIsMobileUserAgent = (window.innerWidth <= mobileWidth);
+    };
+    return blnIsMobileUserAgent;
+};Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel0"),"ownerID":"MenuTabContainer","wasLoadedOnce":true}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel0"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel1"),"ownerID":"MenuTabContainer","wasLoadedOnce":false}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel1"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel2"),"ownerID":"MenuTabContainer","wasLoadedOnce":false}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel2"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel3"),"ownerID":"MenuTabContainer","wasLoadedOnce":false}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel3"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel4"),"ownerID":"MenuTabContainer","wasLoadedOnce":false}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel4"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel5"),"ownerID":"MenuTabContainer","wasLoadedOnce":false}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel5"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabPanel, {"headerTab":$get("__tab_MenuTabContainer_MenuTabPanel6"),"ownerID":"MenuTabContainer","wasLoadedOnce":false}, null, {"owner":"MenuTabContainer"}, $get("MenuTabContainer_MenuTabPanel6"));
+});
+Sys.Application.add_init(function() {
+    $create(Sys.Extended.UI.TabContainer, {"activeTabIndex":0,"clientStateField":$get("MenuTabContainer_ClientState"),"onDemand":false,"tabStripPlacement":0,"useVerticalStripPlacement":false}, null, null, $get("MenuTabContainer"));
+});
+//]]>
+</script>
+</form>
+
+        <script type="text/javascript" src="/Scripts/MasterPage.js" defer=""></script>
+
+    <script type="module" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" data-cf-beacon="{&quot;version&quot;:&quot;2024.11.0&quot;,&quot;token&quot;:&quot;1cdae0e753ef4dcba41ba8115a569972&quot;}" crossorigin="anonymous"></script>
+
+
+
+</body></html>

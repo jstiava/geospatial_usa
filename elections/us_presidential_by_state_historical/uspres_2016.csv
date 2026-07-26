@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,trump_total_vote,hillary_clinton_total_vote,gary_johnson_total_vote,jill_stein_total_vote,total_vote
+Alabama,at_large,9,trump,republican,1318255,729547,44467,9391,2123372
+Alaska,at_large,3,trump,republican,163387,116454,18725,5735,318608
+Arizona,at_large,10,trump,republican,1252401,1161167,106327,34345,2573165
+Arkansas,at_large,6,trump,republican,684872,380494,29949,9473,1130676
+California,at_large,55,hillary_clinton,democratic,4483810,8753788,478500,278657,14181595
+Colorado,at_large,9,hillary_clinton,democratic,1202484,1338870,144121,38437,2780247
+Connecticut,at_large,7,hillary_clinton,democratic,673215,897572,48676,22841,1644920
+Delaware,at_large,3,hillary_clinton,democratic,185127,235603,14757,6103,443814
+District of Columbia,at_large,3,hillary_clinton,democratic,12723,282830,4906,4258,311268
+Florida,at_large,27,trump,republican,4617886,4504975,207043,64399,9420039
+Georgia,at_large,15,trump,republican,2089104,1877963,125306,7674,4114732
+Hawaii,at_large,4,hillary_clinton,democratic,128847,266891,15954,12737,428937
+Idaho,at_large,4,trump,republican,409055,189765,28331,8496,690255
+Illinois,at_large,21,hillary_clinton,democratic,2146015,3090729,209596,76802,5536424
+Indiana,at_large,11,trump,republican,1557286,1033126,133993,7841,2734958
+Iowa,at_large,7,trump,republican,800983,653669,59186,11479,1566031
+Kansas,at_large,6,trump,republican,671018,427005,55406,23506,1184402
+Kentucky,at_large,8,trump,republican,1202971,628854,53752,13913,1924149
+Louisiana,at_large,9,trump,republican,1178638,780154,37978,14031,2029032
+Maine,at_large,2,hillary_clinton,democratic,335593,357735,38105,14251,747927
+Maine,ME-01,1,hillary_clinton,democratic,154384,212774,18592,7563,394329
+Maine,ME-02,1,trump,republican,181177,144817,19510,6685,353416
+Maryland,at_large,10,hillary_clinton,democratic,943169,1677928,79605,35945,2781446
+Massachusetts,at_large,12,hillary_clinton,democratic,1090893,1995196,138018,47661,3325046
+Michigan,at_large,17,trump,republican,2279543,2268839,172136,51463,4799284
+Minnesota,at_large,10,hillary_clinton,democratic,1322951,1367716,112972,36985,2944813
+Mississippi,at_large,6,trump,republican,700714,485131,14435,3731,1209357
+Missouri,at_large,11,trump,republican,1594511,1071068,97359,25419,2808605
+Montana,at_large,3,trump,republican,279240,177709,28037,7970,497147
+Nebraska,at_large,2,trump,republican,495961,284494,38946,8775,844227
+Nebraska,NE-01,1,trump,republican,158642,100132,14033,3374,282338
+Nebraska,NE-02,1,trump,republican,137564,131030,13245,3347,291680
+Nebraska,NE-03,1,trump,republican,199755,53332,11668,2054,270109
+Nevada,at_large,5,hillary_clinton,democratic,512058,539260,37384,–,1125385
+New Hampshire,at_large,4,hillary_clinton,democratic,345790,348526,30777,6496,744296
+New Jersey,at_large,15,hillary_clinton,democratic,1601933,2148278,72477,37772,3874046
+New Mexico,at_large,5,hillary_clinton,democratic,319667,385234,74541,9879,798319
+New York,at_large,31,hillary_clinton,democratic,2819534,4556124,176598,107934,7721453
+North Carolina,at_large,15,trump,republican,2362631,2189316,130126,12105,4741564
+North Dakota,at_large,3,trump,republican,216794,93758,21434,3780,344360
+Ohio,at_large,20,trump,republican,2841005,2394164,174498,46271,5496487
+Oklahoma,at_large,7,trump,republican,949136,420375,83481,–,1452992
+Oregon,at_large,7,hillary_clinton,democratic,782403,1002106,94231,50002,2001336
+Pennsylvania,at_large,21,trump,republican,2970733,2926441,146715,49941,6165478
+Rhode Island,at_large,4,hillary_clinton,democratic,180543,252525,14746,6220,464144
+South Carolina,at_large,8,trump,republican,1155389,855373,49204,13034,2103027
+South Dakota,at_large,3,trump,republican,227721,117458,20850,–,370093
+Tennessee,at_large,11,trump,republican,1522925,870695,70397,15993,2508027
+Texas,at_large,34,trump,republican,4685047,3877868,283492,71558,8969226
+Utah,at_large,5,trump,republican,515231,310676,39608,9438,1131430
+Vermont,at_large,3,hillary_clinton,democratic,95369,178573,10078,6758,315067
+Virginia,at_large,13,hillary_clinton,democratic,1769443,1981473,118274,27638,3984631
+Washington,at_large,11,hillary_clinton,democratic,1221747,1742718,160879,58417,3317019
+West Virginia,at_large,5,trump,republican,489371,188794,23004,8075,714423
+Wisconsin,at_large,10,trump,republican,1405284,1382536,106674,31072,2976150
+Wyoming,at_large,3,trump,republican,174419,55973,13287,2515,255849

@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,al_gore_total_vote,gwbush2_total_vote,total_vote,pat_buchanan_total_vote,ralph_nader_total_vote
+Alabama,at_large,9,gwbush2,republican,692611,941173,1666272,6351,18323
+Alaska,at_large,3,gwbush2,republican,79004,167398,285560,5192,28747
+Arizona,at_large,8,gwbush2,republican,685341,781652,1532016,12373,45645
+Arkansas,at_large,6,gwbush2,republican,422768,472940,921781,7358,13421
+California,at_large,54,al_gore,democratic,5861203,4567429,10965856,44987,418707
+Colorado,at_large,8,gwbush2,republican,738227,883748,1741368,10465,91434
+Connecticut,at_large,8,al_gore,democratic,816015,561094,1459525,4731,64452
+Delaware,at_large,3,al_gore,democratic,180068,137288,327622,777,8307
+District of Columbia,at_large,3,al_gore,democratic,171923,18073,201894,0,10576
+Florida,at_large,25,gwbush2,republican,2912253,2912790,5963110,17484,97488
+Georgia,at_large,13,gwbush2,republican,1116230,1419720,2596804,10926,13432
+Hawaii,at_large,4,al_gore,democratic,205286,137845,367951,1071,21623
+Idaho,at_large,4,gwbush2,republican,138637,336937,501621,7615,12292
+Illinois,at_large,22,al_gore,democratic,2589026,2019421,4742123,16106,103759
+Indiana,at_large,12,gwbush2,republican,901980,1245836,2199302,16959,18531
+Iowa,at_large,7,al_gore,democratic,638517,634373,1315563,5731,29374
+Kansas,at_large,6,gwbush2,republican,399276,622332,1072218,7370,36086
+Kentucky,at_large,8,gwbush2,republican,638898,872492,1544187,4173,23192
+Louisiana,at_large,9,gwbush2,republican,792344,927871,1765656,14356,20473
+Maine,at_large,2,al_gore,democratic,319951,286616,651817,4443,37127
+Maine,ME-01,1,al_gore,democratic,176293,148618,348951,1994,20297
+Maine,ME-02,1,al_gore,democratic,143658,137998,302866,2449,16830
+Maryland,at_large,10,al_gore,democratic,1145782,813797,2025480,4248,53768
+Massachusetts,at_large,12,al_gore,democratic,1616487,878502,2702984,11149,173564
+Michigan,at_large,18,al_gore,democratic,2170418,1953139,4232501,1851,84165
+Minnesota,at_large,10,al_gore,democratic,1168266,1109659,2438685,22166,126696
+Mississippi,at_large,7,gwbush2,republican,404614,572844,994184,2265,8122
+Missouri,at_large,11,gwbush2,republican,1111138,1189924,2359892,9818,38515
+Montana,at_large,3,gwbush2,republican,137126,240178,410997,5697,24437
+Nebraska,at_large,2,gwbush2,republican,231780,433862,697019,3646,24540
+Nebraska,NE-01,1,gwbush2,republican,86946,142562,242023,1324,10085
+Nebraska,NE-02,1,gwbush2,republican,88975,131485,231012,845,8495
+Nebraska,NE-03,1,gwbush2,republican,55859,159815,223984,1477,5960
+Nevada,at_large,4,gwbush2,republican,279978,301575,608970,4747,15008
+New Hampshire,at_large,4,gwbush2,republican,266348,273559,569081,2615,22198
+New Jersey,at_large,15,al_gore,democratic,1788850,1284173,3187226,6989,94554
+New Mexico,at_large,5,al_gore,democratic,286783,286417,598605,1392,21251
+New York,at_large,33,al_gore,democratic,4107697,2403374,6821999,31599,244030
+North Carolina,at_large,14,gwbush2,republican,1257692,1631163,2911262,8874,0
+North Dakota,at_large,3,gwbush2,republican,95284,174852,288256,7288,9486
+Ohio,at_large,21,gwbush2,republican,2186190,2351209,4705457,26724,117857
+Oklahoma,at_large,8,gwbush2,republican,474276,744337,1234229,9014,0
+Oregon,at_large,7,al_gore,democratic,720342,713577,1533968,7063,77357
+Pennsylvania,at_large,23,al_gore,democratic,2485967,2281127,4913119,16023,103392
+Rhode Island,at_large,4,al_gore,democratic,249508,130555,409112,2273,25052
+South Carolina,at_large,8,gwbush2,republican,565561,785937,1382717,3519,20200
+South Dakota,at_large,3,gwbush2,republican,118804,190700,316269,3322,0
+Tennessee,at_large,11,gwbush2,republican,981720,1061949,2076181,4250,19781
+Texas,at_large,32,gwbush2,republican,2433746,3799639,6407637,12394,137994
+Utah,at_large,5,gwbush2,republican,203053,515096,770754,9319,35850
+Vermont,at_large,3,al_gore,democratic,149022,119775,294308,2192,20374
+Virginia,at_large,13,gwbush2,republican,1217290,1437490,2739447,5455,59398
+Washington,at_large,11,al_gore,democratic,1247652,1108864,2487433,7171,103002
+West Virginia,at_large,5,gwbush2,republican,295497,336475,648124,3169,10680
+Wisconsin,at_large,11,al_gore,democratic,1242987,1237279,2598607,11471,94070
+Wyoming,at_large,3,gwbush2,republican,60481,147947,218351,2724,4625

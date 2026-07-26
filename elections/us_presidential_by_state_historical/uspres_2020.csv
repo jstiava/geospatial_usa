@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,joe_biden_total_vote,trump_total_vote,jorgensen_total_vote,total_vote
+Alabama,at_large,9,trump,republican,849624,1441170,25176,2323282
+Alaska,at_large,3,trump,republican,153778,189951,8897,359530
+Arizona,at_large,10,joe_biden,democratic,1672143,1661686,51465,3387326
+Arkansas,at_large,6,trump,republican,423932,760647,13133,1219069
+California,at_large,55,joe_biden,democratic,11110639,6006518,187910,17501380
+Colorado,at_large,9,joe_biden,democratic,1804352,1364607,52460,3256980
+Connecticut,at_large,7,joe_biden,democratic,1080831,714717,20230,1823857
+Delaware,at_large,3,joe_biden,democratic,296268,200603,5000,504346
+District of Columbia,at_large,3,joe_biden,democratic,317323,18586,2036,344356
+Florida,at_large,27,trump,republican,5297045,5668731,70324,11067456
+Georgia,at_large,15,joe_biden,democratic,2473633,2461854,62229,4999960
+Hawaii,at_large,4,joe_biden,democratic,366130,196864,5539,574469
+Idaho,at_large,4,trump,republican,287021,554119,16404,867934
+Illinois,at_large,21,joe_biden,democratic,3471915,2446891,66544,6033744
+Indiana,at_large,11,trump,republican,1242498,1729857,58901,3033210
+Iowa,at_large,7,trump,republican,759061,897672,19637,1690871
+Kansas,at_large,6,trump,republican,570323,771406,30574,1373986
+Kentucky,at_large,8,trump,republican,772474,1326646,26234,2136768
+Louisiana,at_large,9,trump,republican,856034,1255776,21645,2148062
+Maine,at_large,2,joe_biden,democratic,435072,360737,14152,819461
+Maine,ME-01,1,joe_biden,democratic,266376,164045,7343,443112
+Maine,ME-02,1,trump,republican,168696,196692,6809,376349
+Maryland,at_large,10,joe_biden,democratic,1985023,976414,33488,3037030
+Massachusetts,at_large,12,joe_biden,democratic,2382202,1167202,47013,3631402
+Michigan,at_large,17,joe_biden,democratic,2804040,2649852,60381,5539302
+Minnesota,at_large,10,joe_biden,democratic,1717077,1484065,34976,3277171
+Mississippi,at_large,6,trump,republican,539398,756764,8026,1313759
+Missouri,at_large,11,trump,republican,1253014,1718736,41205,3025962
+Montana,at_large,3,trump,republican,244786,343602,15252,603674
+Nebraska,at_large,2,trump,republican,374583,556846,20283,956383
+Nebraska,NE-01,1,trump,republican,132261,180290,7495,321886
+Nebraska,NE-02,1,joe_biden,democratic,176468,154377,6909,339666
+Nebraska,NE-03,1,trump,republican,65854,222179,5879,294831
+Nevada,at_large,5,joe_biden,democratic,703486,669890,14783,1405376
+New Hampshire,at_large,4,joe_biden,democratic,424937,365660,13236,806205
+New Jersey,at_large,15,joe_biden,democratic,2608400,1883313,31677,4549457
+New Mexico,at_large,5,joe_biden,democratic,501614,401894,12585,923965
+New York,at_large,31,joe_biden,democratic,5244886,3251997,60383,8616861
+North Carolina,at_large,15,trump,republican,2684292,2758775,48678,5524804
+North Dakota,at_large,3,trump,republican,115042,235751,9371,362024
+Ohio,at_large,20,trump,republican,2679165,3154834,67569,5922202
+Oklahoma,at_large,7,trump,republican,503890,1020280,24731,1560699
+Oregon,at_large,7,joe_biden,democratic,1340383,958448,41582,2374321
+Pennsylvania,at_large,21,joe_biden,democratic,3458229,3377674,79380,6936976
+Rhode Island,at_large,4,joe_biden,democratic,307486,199922,5053,517757
+South Carolina,at_large,8,trump,republican,1091541,1385103,27916,2513329
+South Dakota,at_large,3,trump,republican,150471,261043,11095,422609
+Tennessee,at_large,11,trump,republican,1143711,1852475,29877,3053851
+Texas,at_large,34,trump,republican,5259126,5890347,126243,11315056
+Utah,at_large,5,trump,republican,560282,865140,38447,1488289
+Vermont,at_large,3,joe_biden,democratic,242820,112704,3608,367428
+Virginia,at_large,13,joe_biden,democratic,2413568,1962430,64761,4460524
+Washington,at_large,11,joe_biden,democratic,2369612,1584651,80500,4087631
+West Virginia,at_large,5,trump,republican,235984,545382,10687,794731
+Wisconsin,at_large,10,joe_biden,democratic,1630866,1610184,38491,3298041
+Wyoming,at_large,3,trump,republican,73491,193559,5768,276765

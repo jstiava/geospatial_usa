@@ -1,0 +1,54 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,reagan_total_vote,carter_total_vote,total_vote,john_anderson_total_vote,ed_clark_total_vote
+Alabama,at_large,9,reagan,republican,654192,636730,1341929,16481,13318
+Alaska,at_large,3,reagan,republican,86112,41842,158445,11155,18479
+Arizona,at_large,6,reagan,republican,529688,246843,873945,76952,18784
+Arkansas,at_large,6,reagan,republican,403164,398041,837582,22468,8970
+California,at_large,45,reagan,republican,4524858,3083661,8587063,739833,148434
+Colorado,at_large,7,reagan,republican,652264,367973,1184415,130633,25744
+Connecticut,at_large,8,reagan,republican,677210,541732,1406285,171807,8570
+Delaware,at_large,3,reagan,republican,111252,105754,235668,16288,1974
+District of Columbia,at_large,3,carter,democratic,23313,130231,173889,16131,1104
+Florida,at_large,17,reagan,republican,2046951,1419475,3687026,189692,30524
+Georgia,at_large,12,carter,democratic,654168,890733,1597467,36055,15627
+Hawaii,at_large,4,carter,democratic,130112,135879,303287,32021,3269
+Idaho,at_large,4,reagan,republican,290699,110192,437431,27058,8425
+Illinois,at_large,26,reagan,republican,2358049,1981413,4749721,346754,38939
+Indiana,at_large,13,reagan,republican,1255656,844197,2242033,111639,19627
+Iowa,at_large,8,reagan,republican,676026,508672,1317661,115633,13123
+Kansas,at_large,7,reagan,republican,566812,326150,979795,68231,14470
+Kentucky,at_large,9,reagan,republican,635274,616417,1294627,31127,5531
+Louisiana,at_large,10,reagan,republican,792853,708453,1548591,26345,8240
+Maine,at_large,2,reagan,republican,238522,220974,523011,53327,5119
+Maine,ME-01,1,reagan,republican,126274,117613,274776,30889,0
+Maine,ME-02,1,reagan,republican,112248,103361,238047,22438,0
+Maryland,at_large,10,carter,democratic,680606,726161,1540496,119537,14192
+Massachusetts,at_large,14,reagan,republican,1057631,1053802,2524298,382539,22038
+Michigan,at_large,21,reagan,republican,1915225,1661532,3909725,275223,41597
+Minnesota,at_large,10,carter,democratic,873241,954174,2051953,174990,31592
+Mississippi,at_large,7,reagan,republican,441089,429281,892620,12036,5465
+Missouri,at_large,12,reagan,republican,1074181,931182,2099824,77920,14422
+Montana,at_large,4,reagan,republican,206814,118032,363952,29281,9825
+Nebraska,at_large,5,reagan,republican,419937,166851,640854,44993,9073
+Nevada,at_large,3,reagan,republican,155017,66666,247885,17651,4358
+New Hampshire,at_large,4,reagan,republican,221705,108864,383999,49693,2067
+New Jersey,at_large,17,reagan,republican,1546557,1147364,2975684,234632,20652
+New Mexico,at_large,4,reagan,republican,250779,167826,456237,29459,4365
+New York,at_large,41,reagan,republican,2893831,2728372,6201959,467801,52648
+North Carolina,at_large,13,reagan,republican,915018,875635,1855833,52800,9677
+North Dakota,at_large,3,reagan,republican,193695,79189,301545,23640,3743
+Ohio,at_large,25,reagan,republican,2206545,1752414,4283603,254472,49033
+Oklahoma,at_large,8,reagan,republican,695570,402026,1149708,38284,13828
+Oregon,at_large,6,reagan,republican,571044,456890,1181516,112389,25838
+Pennsylvania,at_large,27,reagan,republican,2261872,1937540,4561501,292921,33263
+Rhode Island,at_large,4,carter,democratic,154793,198342,416072,59819,2458
+South Carolina,at_large,8,reagan,republican,441207,427560,890083,14150,4975
+South Dakota,at_large,4,reagan,republican,198343,103855,327703,21431,3824
+Tennessee,at_large,10,reagan,republican,787761,783051,1617616,35991,7116
+Texas,at_large,26,reagan,republican,2510705,1881147,4541637,111613,37643
+Utah,at_large,4,reagan,republican,439687,124266,604222,30284,7226
+Vermont,at_large,3,reagan,republican,94598,81891,213207,31760,1900
+Virginia,at_large,12,reagan,republican,989609,752174,1866032,95418,12821
+Washington,at_large,9,reagan,republican,865244,650193,1742394,185073,29213
+West Virginia,at_large,6,carter,democratic,334206,367462,737715,31691,4356
+Wisconsin,at_large,11,reagan,republican,1088845,981584,2273221,160657,29135
+Wyoming,at_large,3,reagan,republican,110700,49427,176713,12072,4514

@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,trump_total_vote,kamala_harris_total_vote,total_vote,other_total_vote,stein_total_vote,kennedy_total_vote,oliver_total_vote
+Alabama,at_large,9,trump,republican,1462616,772412,2265090,30062,4319,12075,4930
+Alaska,at_large,3,trump,republican,184458,140026,338177,13693,2342,5670,3040
+Arizona,at_large,11,trump,republican,1770242,1582860,3390161,37059,18319,0,17898
+Arkansas,at_large,6,trump,republican,759241,396905,1182676,26530,4275,13255,5715
+California,at_large,54,kamala_harris,democratic,6081697,9276179,15865475,507599,167814,197645,66662
+Colorado,at_large,10,kamala_harris,democratic,1377441,1728159,3192745,87145,17344,35623,21439
+Connecticut,at_large,7,kamala_harris,democratic,736918,992053,1759010,30039,14281,8448,6729
+Delaware,at_large,3,kamala_harris,democratic,214351,289758,512912,8803,914,4636,2038
+District of Columbia,at_large,3,kamala_harris,democratic,21076,294185,325869,10608,0,2778,0
+Florida,at_large,30,trump,republican,6110125,4683038,10893752,100589,43155,0,31972
+Georgia,at_large,16,trump,republican,2663117,2548017,5250905,39771,18229,0,20684
+Hawaii,at_large,4,kamala_harris,democratic,193661,313044,516701,9996,4387,0,2733
+Idaho,at_large,4,trump,republican,605246,274972,905057,24839,2973,12812,4462
+Illinois,at_large,19,kamala_harris,democratic,2449079,3062863,5633310,121368,31023,80426,3510
+Indiana,at_large,11,trump,republican,1720347,1163603,2936677,52727,0,29325,20425
+Iowa,at_large,6,trump,republican,927019,707278,1663506,29209,0,13122,7218
+Kansas,at_large,6,trump,republican,758802,544853,1327591,23936,0,16322,7614
+Kentucky,at_large,8,trump,republican,1337494,704043,2074530,32993,7566,16769,6422
+Louisiana,at_large,8,trump,republican,1208505,766870,2006975,31600,7138,6641,6835
+Maine,at_large,2,kamala_harris,democratic,377977,435652,831375,17746,8967,0,5286
+Maine,ME-01,1,kamala_harris,democratic,165214,258863,433709,9632,4828,0,2802
+Maine,ME-02,1,trump,republican,212763,176789,397666,8114,4139,0,2484
+Maryland,at_large,10,kamala_harris,democratic,1035550,1902577,3038334,100207,33134,28819,15570
+Massachusetts,at_large,11,kamala_harris,democratic,1251303,2126518,3473668,95847,26545,0,17735
+Michigan,at_large,15,trump,republican,2816636,2736533,5664186,111017,44607,26785,22440
+Minnesota,at_large,10,kamala_harris,democratic,1519032,1656979,3253920,77909,16275,24001,15155
+Mississippi,at_large,6,trump,republican,747744,466668,1228008,13596,1873,5387,2536
+Missouri,at_large,10,trump,republican,1751986,1200599,2995327,42742,17135,0,23876
+Montana,at_large,4,trump,republican,352079,231906,602990,19005,2878,11825,4275
+Nebraska,at_large,2,trump,republican,564816,369995,952182,17371,2887,0,6399
+Nebraska,NE-01,1,trump,republican,177666,136153,320194,6375,1011,0,2420
+Nebraska,NE-02,1,kamala_harris,democratic,148905,163541,318646,6200,1110,0,2001
+Nebraska,NE-03,1,trump,republican,238245,70301,313342,4796,766,0,1978
+Nevada,at_large,6,trump,republican,751205,705197,1484840,28438,0,0,6059
+New Hampshire,at_large,4,kamala_harris,democratic,395523,418488,826189,12178,3680,0,4425
+New Jersey,at_large,14,kamala_harris,democratic,1968215,2220713,4272725,83797,39041,23479,10500
+New Mexico,at_large,5,kamala_harris,democratic,423391,478802,923403,21210,4611,9553,3745
+New York,at_large,28,kamala_harris,democratic,3578899,4619195,8262495,64401,46698,0,5338
+North Carolina,at_large,16,trump,republican,2898423,2715375,5699141,85343,24762,0,22125
+North Dakota,at_large,3,trump,republican,246505,112327,368155,9323,0,0,6227
+Ohio,at_large,17,trump,republican,3180116,2533699,5767788,53973,0,0,28200
+Oklahoma,at_large,7,trump,republican,1036213,499599,1566173,30361,0,16020,9198
+Oregon,at_large,8,kamala_harris,democratic,919480,1240600,2244493,84413,19099,33733,9061
+Pennsylvania,at_large,19,trump,republican,3543308,3423042,7058732,92382,34538,0,33318
+Rhode Island,at_large,4,kamala_harris,democratic,214406,285156,513386,13824,2900,5045,1617
+South Carolina,at_large,9,trump,republican,1483747,1028452,2548140,35941,8117,0,12669
+South Dakota,at_large,3,trump,republican,272081,146859,428922,9982,0,7204,2778
+Tennessee,at_large,11,trump,republican,1966865,1056265,3063942,40812,8967,21535,0
+Texas,at_large,40,trump,republican,6393597,4835250,11388674,159827,82701,0,68557
+Utah,at_large,6,trump,republican,883818,562566,1488494,42110,8222,0,16902
+Vermont,at_large,3,kamala_harris,democratic,119395,235791,369422,14236,893,5905,1828
+Virginia,at_large,13,kamala_harris,democratic,2075085,2335395,4505941,95461,34888,0,19814
+Washington,at_large,12,kamala_harris,democratic,1530923,2245849,3924243,147471,29754,54868,16428
+West Virginia,at_large,4,trump,republican,533556,214309,762582,14717,2531,8947,3047
+Wisconsin,at_large,10,trump,republican,1697626,1668229,3422918,57063,12275,17740,10511
+Wyoming,at_large,3,trump,republican,192633,69527,269048,6888,0,0,4193

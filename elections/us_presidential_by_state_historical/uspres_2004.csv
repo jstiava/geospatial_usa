@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,john_kerry_total_vote,gwbush2_total_vote,total_vote,ralph_nader_total_vote
+Alabama,at_large,9,gwbush2,republican,693933,1176394,1883449,6701
+Alaska,at_large,3,gwbush2,republican,111025,190889,312598,5069
+Arizona,at_large,10,gwbush2,republican,893524,1104294,2012585,2773
+Arkansas,at_large,6,gwbush2,republican,469953,572898,1054945,6171
+California,at_large,55,john_kerry,democratic,6745485,5509826,12421852,21213
+Colorado,at_large,9,gwbush2,republican,1001732,1101255,2130330,12718
+Connecticut,at_large,7,john_kerry,democratic,857488,693826,1578769,12969
+Delaware,at_large,3,john_kerry,democratic,200152,171660,375190,2153
+District of Columbia,at_large,3,john_kerry,democratic,202970,21256,227586,1485
+Florida,at_large,27,gwbush2,republican,3583544,3964522,7609810,32971
+Georgia,at_large,15,gwbush2,republican,1366149,1914254,3301875,2231
+Hawaii,at_large,4,john_kerry,democratic,231708,194191,429013,0
+Idaho,at_large,4,gwbush2,republican,181098,409235,598447,1115
+Illinois,at_large,21,john_kerry,democratic,2891550,2345946,5274322,3571
+Indiana,at_large,11,gwbush2,republican,969011,1479438,2468002,1328
+Iowa,at_large,7,gwbush2,republican,741898,751957,1506908,5973
+Kansas,at_large,6,gwbush2,republican,434993,736456,1187756,9348
+Kentucky,at_large,8,gwbush2,republican,712733,1069439,1795882,8856
+Louisiana,at_large,9,gwbush2,republican,820299,1102169,1943106,7032
+Maine,at_large,2,john_kerry,democratic,396842,330201,740752,8069
+Maine,ME-01,1,john_kerry,democratic,211703,165824,384392,4004
+Maine,ME-02,1,john_kerry,democratic,185139,164377,356356,4065
+Maryland,at_large,10,john_kerry,democratic,1334493,1024703,2386678,11854
+Massachusetts,at_large,12,john_kerry,democratic,1803800,1071109,2912388,4806
+Michigan,at_large,17,john_kerry,democratic,2479183,2313746,4839252,24035
+Minnesota,at_large,10,john_kerry,democratic,1445014,1346695,2828387,18683
+Mississippi,at_large,6,gwbush2,republican,458094,684981,1152145,3177
+Missouri,at_large,11,gwbush2,republican,1259171,1455713,2731364,1294
+Montana,at_large,3,gwbush2,republican,173710,266063,450445,6168
+Nebraska,at_large,2,gwbush2,republican,254328,512814,778186,5698
+Nebraska,NE-01,1,gwbush2,republican,96314,169888,269771,2025
+Nebraska,NE-02,1,gwbush2,republican,97858,153041,254032,1731
+Nebraska,NE-03,1,gwbush2,republican,60156,189885,253452,1942
+Nevada,at_large,5,gwbush2,republican,397190,418690,829587,4838
+New Hampshire,at_large,4,john_kerry,democratic,340511,331237,677738,4479
+New Jersey,at_large,15,john_kerry,democratic,1911430,1670003,3611691,19418
+New Mexico,at_large,5,gwbush2,republican,370942,376930,756304,4053
+New York,at_large,31,john_kerry,democratic,4314280,2962567,7391036,99873
+North Carolina,at_large,15,gwbush2,republican,1525849,1961166,3501007,1805
+North Dakota,at_large,3,gwbush2,republican,111052,196651,312833,3756
+Ohio,at_large,20,gwbush2,republican,2741167,2859768,5627908,0
+Oklahoma,at_large,7,gwbush2,republican,503966,959792,1463758,0
+Oregon,at_large,7,john_kerry,democratic,943163,866831,1836782,0
+Pennsylvania,at_large,21,john_kerry,democratic,2938095,2793847,5769590,2656
+Rhode Island,at_large,4,john_kerry,democratic,259765,169046,437134,4651
+South Carolina,at_large,8,gwbush2,republican,661699,937974,1617730,5520
+South Dakota,at_large,3,gwbush2,republican,149244,232584,388215,4320
+Tennessee,at_large,11,gwbush2,republican,1036477,1384375,2437319,8992
+Texas,at_large,34,gwbush2,republican,2832704,4526917,7410765,9159
+Utah,at_large,5,gwbush2,republican,241199,663742,927844,11305
+Vermont,at_large,3,john_kerry,democratic,184067,121180,312309,4494
+Virginia,at_large,13,gwbush2,republican,1454742,1716959,3198367,2393
+Washington,at_large,11,john_kerry,democratic,1510201,1304894,2859084,23283
+West Virginia,at_large,5,gwbush2,republican,326541,423778,755887,4063
+Wisconsin,at_large,10,john_kerry,democratic,1489504,1478120,2997007,16390
+Wyoming,at_large,3,gwbush2,republican,70776,167629,243428,2741

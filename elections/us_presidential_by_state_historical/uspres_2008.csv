@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,mccain_total_vote,obama_total_vote,total_vote,other_total_vote,nader_total_vote,barr_total_vote,baldwin_total_vote,mckinney_total_vote
+Alabama,at_large,9,mccain,republican,1266546,813479,2099819,3705,6788,4991,4310,0
+Alaska,at_large,3,mccain,republican,193841,123594,326197,1730,3783,1589,1660,0
+Arizona,at_large,10,mccain,republican,1230111,1034707,2293475,24,11301,12555,1371,3406
+Arkansas,at_large,6,mccain,republican,638017,422310,1086617,1139,12882,4776,4023,3470
+California,at_large,55,obama,democratic,5011781,8274473,13561900,57764,108381,67582,3145,38774
+Colorado,at_large,9,obama,democratic,1073629,1288633,2401462,5895,13352,10898,6233,2822
+Connecticut,at_large,7,obama,democratic,629428,997772,1646797,34,19162,0,311,90
+Delaware,at_large,3,obama,democratic,152374,255459,412412,58,2401,1109,626,385
+District of Columbia,at_large,3,obama,democratic,17367,245800,265853,1138,958,0,0,590
+Florida,at_large,27,obama,democratic,4045624,4282074,8390744,6902,28124,17218,7915,2887
+Georgia,at_large,15,mccain,republican,2048759,1844123,3924486,63,1158,28731,1402,250
+Hawaii,at_large,4,obama,democratic,120566,325871,453568,0,3825,1314,1013,979
+Idaho,at_large,4,mccain,republican,403012,236440,655122,51,7175,3658,4747,39
+Illinois,at_large,21,obama,democratic,2031179,3419348,5522371,1160,30948,19642,8256,11838
+Indiana,at_large,11,obama,democratic,1345648,1374039,2751054,90,909,29257,1024,87
+Iowa,at_large,7,obama,democratic,682379,828940,1537123,7332,8014,4590,4445,1423
+Kansas,at_large,6,mccain,republican,699655,514765,1235872,36,10527,6706,4148,35
+Kentucky,at_large,8,mccain,republican,1048462,751985,1826620,112,15378,5989,4694,0
+Louisiana,at_large,9,mccain,republican,1148275,782989,1960761,10732,6997,0,2581,9187
+Maine,at_large,2,obama,democratic,295273,421923,731163,3,10636,251,177,2900
+Maine,ME-01,1,obama,democratic,144604,232145,383626,252,5263,0,0,1362
+Maine,ME-02,1,obama,democratic,150669,189778,347537,179,5373,0,0,1538
+Maryland,at_large,10,obama,democratic,959862,1629467,2631596,9205,14713,9842,3760,4747
+Massachusetts,at_large,12,obama,democratic,1108854,1904097,3080985,14483,28841,13189,4971,6550
+Michigan,at_large,17,obama,democratic,2048639,2872579,5001766,170,33085,23716,14685,8892
+Minnesota,at_large,10,obama,democratic,1275409,1573354,2910369,10319,30152,9174,6787,5174
+Mississippi,at_large,6,mccain,republican,724597,554662,1289865,481,4011,2529,2551,1034
+Missouri,at_large,11,mccain,republican,1445814,1441911,2925205,0,17813,11386,8201,80
+Montana,at_large,3,mccain,republican,242763,231667,490302,10665,3686,1355,143,23
+Nebraska,at_large,2,mccain,republican,452979,333319,801281,2837,5406,2740,2972,1028
+Nebraska,NE-01,1,mccain,republican,148179,121411,273893,0,1963,922,1024,394
+Nebraska,NE-02,1,obama,democratic,135439,138809,277809,0,1628,1014,599,320
+Nebraska,NE-03,1,mccain,republican,169361,73099,246742,0,1815,804,1349,314
+Nevada,at_large,5,obama,democratic,412827,533736,967848,6267,6150,4263,3194,1411
+New Hampshire,at_large,4,obama,democratic,316534,384826,710970,3624,3503,2217,226,40
+New Jersey,at_large,15,obama,democratic,1613207,2215422,3868237,2277,21298,8441,3956,3636
+New Mexico,at_large,5,obama,democratic,346832,472422,830158,0,5327,2428,1597,1552
+New York,at_large,31,obama,democratic,2752771,4804945,7640931,8935,41249,19596,634,12801
+North Carolina,at_large,15,obama,democratic,2128474,2142651,4310789,12336,1448,25722,0,158
+North Dakota,at_large,3,mccain,republican,168601,141278,316621,0,4189,1354,1199,0
+Ohio,at_large,20,obama,democratic,2677820,2940044,5708350,7149,42337,19917,12565,8518
+Oklahoma,at_large,7,mccain,republican,960165,502496,1462661,0,0,0,0,0
+Oregon,at_large,7,obama,democratic,738475,1037291,1827864,13613,18614,7635,7693,4543
+Pennsylvania,at_large,21,obama,democratic,2655885,3276363,6013272,17043,42977,19912,1092,0
+Rhode Island,at_large,4,obama,democratic,165391,296571,471766,2121,4829,1382,675,797
+South Carolina,at_large,8,mccain,republican,1034896,862449,1920969,0,5053,7283,6827,4461
+South Dakota,at_large,3,mccain,republican,203054,170924,381975,0,4267,1835,1895,0
+Tennessee,at_large,11,mccain,republican,1479178,1087437,2599749,2337,11560,8547,8191,2499
+Texas,at_large,34,mccain,republican,4479328,3528633,8077795,1350,5751,56116,5708,909
+Utah,at_large,5,mccain,republican,596030,327670,952370,294,8416,6966,12012,982
+Vermont,at_large,3,obama,democratic,98974,219262,325046,1838,3339,1067,500,66
+Virginia,at_large,13,obama,democratic,1725005,1959532,3723260,6355,11483,11067,7474,2344
+Washington,at_large,11,obama,democratic,1229216,1750848,3036878,1346,29489,12728,9432,3819
+West Virginia,at_large,5,mccain,republican,397466,303857,713451,89,7219,0,2465,2355
+Wisconsin,at_large,10,obama,democratic,1262393,1677211,2983417,8062,17605,8858,5072,4216
+Wyoming,at_large,3,mccain,republican,164958,82868,254658,1521,2525,1594,1192,0

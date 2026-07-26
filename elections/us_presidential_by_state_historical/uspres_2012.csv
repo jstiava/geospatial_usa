@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,mitt_romney_total_vote,obama_total_vote,gary_johnson_total_vote,jill_stein_total_vote,total_vote
+Alabama,at_large,9,mitt_romney,republican,1255925,795696,12328,3397,2074338
+Alaska,at_large,3,mitt_romney,republican,164676,122640,7392,2917,300495
+Arizona,at_large,11,mitt_romney,republican,1233654,1025232,32100,7816,2299254
+Arkansas,at_large,6,mitt_romney,republican,647744,394409,16276,9305,1069468
+California,at_large,55,obama,democratic,4839958,7854285,143221,85638,13038547
+Colorado,at_large,9,obama,democratic,1185243,1323102,35545,7508,2569518
+Connecticut,at_large,7,obama,democratic,634892,905083,12580,863,1558960
+Delaware,at_large,3,obama,democratic,165484,242584,3882,1940,413921
+District of Columbia,at_large,3,obama,democratic,21381,267070,2083,2458,293764
+Florida,at_large,29,obama,democratic,4163447,4237756,44726,8947,8474179
+Georgia,at_large,16,mitt_romney,republican,2078688,1773827,45324,1516,3900050
+Hawaii,at_large,4,obama,democratic,121015,306658,3840,3184,434697
+Idaho,at_large,4,mitt_romney,republican,420911,212787,9453,4402,652274
+Illinois,at_large,20,obama,democratic,2135216,3019512,56229,30222,5242014
+Indiana,at_large,11,mitt_romney,republican,1420543,1152887,50111,625,2624534
+Iowa,at_large,6,obama,democratic,730617,822544,12926,3769,1582180
+Kansas,at_large,6,mitt_romney,republican,692634,440726,20456,714,1159971
+Kentucky,at_large,8,mitt_romney,republican,1087190,679370,17063,6337,1797212
+Louisiana,at_large,8,mitt_romney,republican,1152262,809141,18157,6978,1994065
+Maine,at_large,2,obama,democratic,292276,401306,9352,8119,713180
+Maine,ME-01,1,obama,democratic,142937,223035,4501,3946,374419
+Maine,ME-02,1,obama,democratic,149215,177998,4843,4170,336226
+Maryland,at_large,10,obama,democratic,971869,1677844,30195,17110,2707327
+Massachusetts,at_large,11,obama,democratic,1188314,1921290,30920,20691,3167767
+Michigan,at_large,16,obama,democratic,2115256,2564569,7774,21897,4730961
+Minnesota,at_large,10,obama,democratic,1320225,1546167,35098,13023,2936561
+Mississippi,at_large,6,mitt_romney,republican,710746,562949,6676,1588,1285584
+Missouri,at_large,10,mitt_romney,republican,1482440,1223796,43151,0,2757323
+Montana,at_large,3,mitt_romney,republican,267928,201839,14165,0,484048
+Nebraska,at_large,2,mitt_romney,republican,475064,302081,11109,0,794379
+Nebraska,NE-01,1,mitt_romney,republican,152021,108082,3847,0,264712
+Nebraska,NE-02,1,mitt_romney,republican,140976,121889,3393,0,266727
+Nebraska,NE-03,1,mitt_romney,republican,182067,72110,3869,0,259223
+Nevada,at_large,6,obama,democratic,463567,531373,10968,0,1014918
+New Hampshire,at_large,4,obama,democratic,329918,369561,8212,324,710972
+New Jersey,at_large,14,obama,democratic,1477568,2125101,21045,9888,3640292
+New Mexico,at_large,5,obama,democratic,335788,415335,27788,2691,783758
+New York,at_large,29,obama,democratic,2490431,4485741,47256,39982,7081159
+North Carolina,at_large,15,mitt_romney,republican,2270395,2178391,44515,0,4505372
+North Dakota,at_large,3,mitt_romney,republican,188163,124827,5231,1361,322627
+Ohio,at_large,18,obama,democratic,2661437,2827709,49493,18573,5580847
+Oklahoma,at_large,7,mitt_romney,republican,891325,443547,0,0,1334872
+Oregon,at_large,7,obama,democratic,754175,970488,24089,19427,1789270
+Pennsylvania,at_large,20,obama,democratic,2680434,2990274,49991,21341,5753670
+Rhode Island,at_large,4,obama,democratic,157204,279677,4388,2421,446049
+South Carolina,at_large,9,mitt_romney,republican,1071645,865941,16321,5446,1964118
+South Dakota,at_large,3,mitt_romney,republican,210610,145039,5795,0,363815
+Tennessee,at_large,11,mitt_romney,republican,1462330,960709,18623,6515,2458577
+Texas,at_large,38,mitt_romney,republican,4569843,3308124,88580,24657,7993851
+Utah,at_large,6,mitt_romney,republican,740600,251813,12572,3817,1017440
+Vermont,at_large,3,obama,democratic,92698,199239,3487,594,299290
+Virginia,at_large,13,obama,democratic,1822522,1971820,31216,8627,3854489
+Washington,at_large,12,obama,democratic,1290670,1755396,42202,20928,3125516
+West Virginia,at_large,5,mitt_romney,republican,417655,238269,6302,4406,670438
+Wisconsin,at_large,10,obama,democratic,1407966,1620985,20439,7665,3068434
+Wyoming,at_large,3,mitt_romney,republican,170962,69286,5326,0,249061

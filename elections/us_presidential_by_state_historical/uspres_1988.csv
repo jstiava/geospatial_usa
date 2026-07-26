@@ -1,0 +1,54 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,ghwbush1_total_vote,michael_dukakis_total_vote,total_vote
+Alabama,at_large,9,ghwbush1,republican,815576,549506,1378476
+Alaska,at_large,3,ghwbush1,republican,119251,72584,200116
+Arizona,at_large,7,ghwbush1,republican,702541,454029,1171873
+Arkansas,at_large,6,ghwbush1,republican,466578,349237,827738
+California,at_large,47,ghwbush1,republican,5054917,4702233,9887064
+Colorado,at_large,8,ghwbush1,republican,728177,621453,1372394
+Connecticut,at_large,8,ghwbush1,republican,750241,676584,1443394
+Delaware,at_large,3,ghwbush1,republican,139639,108647,249891
+District of Columbia,at_large,3,michael_dukakis,democratic,27590,159407,192877
+Florida,at_large,21,ghwbush1,republican,2618885,1656701,4302313
+Georgia,at_large,12,ghwbush1,republican,1081331,714792,1809672
+Hawaii,at_large,4,michael_dukakis,democratic,158625,192364,354461
+Idaho,at_large,4,ghwbush1,republican,253881,147272,408968
+Illinois,at_large,24,ghwbush1,republican,2310939,2215940,4559120
+Indiana,at_large,12,ghwbush1,republican,1297763,860643,2168621
+Iowa,at_large,8,michael_dukakis,democratic,545355,670557,1225614
+Kansas,at_large,7,ghwbush1,republican,554049,422636,993044
+Kentucky,at_large,9,ghwbush1,republican,734281,580368,1322517
+Louisiana,at_large,10,ghwbush1,republican,883702,734281,1628202
+Maine,at_large,2,ghwbush1,republican,307131,243569,555035
+Maine,ME-01,1,ghwbush1,republican,169292,131078,300370
+Maine,ME-02,1,ghwbush1,republican,137839,112491,250330
+Maryland,at_large,10,ghwbush1,republican,876167,826304,1714358
+Massachusetts,at_large,13,michael_dukakis,democratic,1194644,1401406,2632805
+Michigan,at_large,20,ghwbush1,republican,1965486,1675783,3669163
+Minnesota,at_large,10,michael_dukakis,democratic,962337,1109471,2096790
+Mississippi,at_large,7,ghwbush1,republican,557890,363921,931527
+Missouri,at_large,11,ghwbush1,republican,1084953,1001619,2093228
+Montana,at_large,4,ghwbush1,republican,190412,168936,365674
+Nebraska,at_large,5,ghwbush1,republican,398447,259646,662372
+Nevada,at_large,4,ghwbush1,republican,206040,132738,350067
+New Hampshire,at_large,4,ghwbush1,republican,281537,163696,450525
+New Jersey,at_large,16,ghwbush1,republican,1743192,1320352,3099553
+New Mexico,at_large,5,ghwbush1,republican,270341,244497,521287
+New York,at_large,36,michael_dukakis,democratic,3081871,3347882,6485683
+North Carolina,at_large,13,ghwbush1,republican,1237258,890167,2134370
+North Dakota,at_large,3,ghwbush1,republican,166559,127739,297261
+Ohio,at_large,23,ghwbush1,republican,2416549,1939629,4393699
+Oklahoma,at_large,8,ghwbush1,republican,678367,483423,1171036
+Oregon,at_large,7,michael_dukakis,democratic,560126,616206,1201694
+Pennsylvania,at_large,25,ghwbush1,republican,2300087,2194944,4536251
+Rhode Island,at_large,4,michael_dukakis,democratic,177761,225123,404620
+South Carolina,at_large,8,ghwbush1,republican,606443,370554,986009
+South Dakota,at_large,3,ghwbush1,republican,165415,145560,312991
+Tennessee,at_large,11,ghwbush1,republican,947233,679794,1636250
+Texas,at_large,29,ghwbush1,republican,3036829,2352748,5427410
+Utah,at_large,5,ghwbush1,republican,428442,207343,647008
+Vermont,at_large,3,ghwbush1,republican,124331,115775,243333
+Virginia,at_large,12,ghwbush1,republican,1309162,859799,2191609
+Washington,at_large,10,michael_dukakis,democratic,903835,933516,1865253
+West Virginia,at_large,6,michael_dukakis,democratic,310065,341016,653311
+Wisconsin,at_large,11,michael_dukakis,democratic,1047499,1126794,2191608
+Wyoming,at_large,3,ghwbush1,republican,106867,67113,176551

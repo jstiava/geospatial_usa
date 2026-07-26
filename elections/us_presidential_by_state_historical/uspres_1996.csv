@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,w_clinton_total_vote,bob_dole_total_vote,total_vote,ross_perot_total_vote,ralph_nader_total_vote
+Alabama,at_large,9,bob_dole,republican,662165,769044,1534349,92149,0
+Alaska,at_large,3,bob_dole,republican,80380,122746,241620,26333,7597
+Arizona,at_large,8,w_clinton,democratic,653288,622073,1404405,112072,2062
+Arkansas,at_large,6,w_clinton,democratic,475171,325416,884262,69884,3649
+California,at_large,54,w_clinton,democratic,5119835,3828380,10019484,697847,237016
+Colorado,at_large,8,bob_dole,republican,671152,691848,1510704,99629,25070
+Connecticut,at_large,8,w_clinton,democratic,735740,483109,1392614,139523,24321
+Delaware,at_large,3,w_clinton,democratic,140355,99062,270845,28719,18
+District of Columbia,at_large,3,w_clinton,democratic,158220,17339,185726,3611,4780
+Florida,at_large,25,w_clinton,democratic,2546870,2244536,5303794,483870,4101
+Georgia,at_large,13,bob_dole,republican,1053849,1080843,2299071,146337,0
+Hawaii,at_large,4,w_clinton,democratic,205012,113943,360120,27358,10386
+Idaho,at_large,4,bob_dole,republican,165443,256595,491719,62518,0
+Illinois,at_large,22,w_clinton,democratic,2341744,1587021,4311391,346408,1447
+Indiana,at_large,12,bob_dole,republican,887424,1006693,2135842,224299,1121
+Iowa,at_large,7,w_clinton,democratic,620258,492644,1234075,105159,6550
+Kansas,at_large,6,bob_dole,republican,387659,583245,1074300,92639,914
+Kentucky,at_large,8,w_clinton,democratic,636614,623283,1388708,120396,701
+Louisiana,at_large,9,w_clinton,democratic,927837,712586,1783959,123293,4719
+Maine,at_large,2,w_clinton,democratic,312788,186378,605897,85970,15279
+Maine,ME-01,1,w_clinton,democratic,165053,100851,317121,39845,0
+Maine,ME-02,1,w_clinton,democratic,147735,85527,288776,46125,0
+Maryland,at_large,10,w_clinton,democratic,966207,681530,1780870,115812,2606
+Massachusetts,at_large,12,w_clinton,democratic,1571763,718107,2556786,227217,4565
+Michigan,at_large,18,w_clinton,democratic,1989653,1481212,3848844,336670,2322
+Minnesota,at_large,10,w_clinton,democratic,1120438,766476,2192640,257704,24908
+Mississippi,at_large,7,bob_dole,republican,394022,439838,893857,52222,0
+Missouri,at_large,11,w_clinton,democratic,1025935,890016,2158065,217188,534
+Montana,at_large,3,bob_dole,republican,167922,179652,407261,55229,0
+Nebraska,at_large,2,bob_dole,republican,236761,363467,677415,71278,0
+Nebraska,NE-01,1,bob_dole,republican,87713,114560,230330,25973,0
+Nebraska,NE-02,1,bob_dole,republican,84666,116892,222660,18935,0
+Nebraska,NE-03,1,bob_dole,republican,64382,132015,224425,26370,0
+Nevada,at_large,4,w_clinton,democratic,203974,199244,464279,43986,4730
+New Hampshire,at_large,4,w_clinton,democratic,246214,196532,499175,48390,0
+New Jersey,at_large,15,w_clinton,democratic,1652329,1103078,3075807,262134,32465
+New Mexico,at_large,5,w_clinton,democratic,273495,232751,556074,32257,13218
+New York,at_large,33,w_clinton,democratic,3756177,1933492,6316129,503458,75956
+North Carolina,at_large,14,bob_dole,republican,1107849,1225938,2515807,168059,2108
+North Dakota,at_large,3,bob_dole,republican,106905,125050,266411,32515,0
+Ohio,at_large,21,w_clinton,democratic,2148222,1859883,4534434,483207,2962
+Oklahoma,at_large,8,bob_dole,republican,488105,582315,1206713,130788,0
+Oregon,at_large,7,w_clinton,democratic,649641,538152,1377760,121221,49415
+Pennsylvania,at_large,23,w_clinton,democratic,2215819,1801169,4506118,430984,3086
+Rhode Island,at_large,4,w_clinton,democratic,233050,104683,390284,43723,6040
+South Carolina,at_large,8,bob_dole,republican,506283,573458,1151689,64386,0
+South Dakota,at_large,3,bob_dole,republican,139333,150543,323826,31250,0
+Tennessee,at_large,11,w_clinton,democratic,909146,863530,1894105,105918,6427
+Texas,at_large,32,bob_dole,republican,2459683,2736167,5611644,378537,4810
+Utah,at_large,5,bob_dole,republican,221633,361911,665629,66461,4615
+Vermont,at_large,3,w_clinton,democratic,137894,80352,258449,31024,5585
+Virginia,at_large,13,bob_dole,republican,1091060,1138350,2416642,159861,0
+Washington,at_large,11,w_clinton,democratic,1123323,840712,2253837,201003,60322
+West Virginia,at_large,5,w_clinton,democratic,327812,233946,636459,71639,0
+Wisconsin,at_large,11,w_clinton,democratic,1071971,845029,2196169,227339,28723
+Wyoming,at_large,3,bob_dole,republican,77934,105388,211571,25928,0

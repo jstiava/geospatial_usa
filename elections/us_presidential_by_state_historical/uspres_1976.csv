@@ -1,0 +1,54 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,carter_total_vote,gerald_ford_total_vote,total_vote,mccarthy_total_vote,macbride_total_vote
+Alabama,at_large,9,carter,democratic,659170,504070,1182850,0,1481
+Alaska,at_large,3,gerald_ford,republican,44058,71555,123574,0,6785
+Arizona,at_large,6,gerald_ford,republican,295602,418642,742719,19229,7647
+Arkansas,at_large,6,carter,democratic,499614,268753,769396,647,0
+California,at_large,45,gerald_ford,republican,3742284,3882244,7867117,58412,56388
+Colorado,at_large,7,gerald_ford,republican,460353,584367,1081135,26107,5330
+Connecticut,at_large,8,gerald_ford,republican,647895,719261,1381526,0,0
+Delaware,at_large,3,carter,democratic,122596,109831,235834,2437,0
+District of Columbia,at_large,3,carter,democratic,137818,27873,168830,0,274
+Florida,at_large,17,carter,democratic,1636000,1469531,3150631,23643,103
+Georgia,at_large,12,carter,democratic,979409,483743,1467458,991,175
+Hawaii,at_large,4,carter,democratic,147375,140003,291301,0,3923
+Idaho,at_large,4,gerald_ford,republican,126549,204151,340932,0,3558
+Illinois,at_large,26,gerald_ford,republican,2271295,2364269,4718833,55939,8057
+Indiana,at_large,13,gerald_ford,republican,1014714,1183958,2220362,0,0
+Iowa,at_large,8,gerald_ford,republican,619931,632863,1279306,20051,1452
+Kansas,at_large,7,gerald_ford,republican,430421,502752,957845,13185,3242
+Kentucky,at_large,9,carter,democratic,615717,531852,1167142,6837,814
+Louisiana,at_large,10,carter,democratic,661365,587446,1278439,6588,3325
+Maine,at_large,2,gerald_ford,republican,232279,236320,483208,10874,10
+Maine,ME-01,1,gerald_ford,republican,123598,127019,250617,6025,0
+Maine,ME-02,1,gerald_ford,republican,108681,109301,217982,4849,0
+Maryland,at_large,10,carter,democratic,759612,672661,1432273,0,0
+Massachusetts,at_large,14,carter,democratic,1429475,1030276,2547557,65637,135
+Michigan,at_large,21,gerald_ford,republican,1696714,1893742,3653749,47905,5406
+Minnesota,at_large,10,carter,democratic,1070440,819395,1949931,35490,3529
+Mississippi,at_large,7,carter,democratic,381309,366846,769360,4074,2787
+Missouri,at_large,12,carter,democratic,998387,927443,1953600,24029,0
+Montana,at_large,4,gerald_ford,republican,149259,173703,328734,0,0
+Nebraska,at_large,5,gerald_ford,republican,233692,359705,607668,9409,1482
+Nevada,at_large,3,gerald_ford,republican,92479,101273,201876,0,1519
+New Hampshire,at_large,4,gerald_ford,republican,147635,185935,339618,4095,936
+New Jersey,at_large,17,gerald_ford,republican,1444653,1509688,3014472,32717,9449
+New Mexico,at_large,4,gerald_ford,republican,201148,211419,416590,0,1110
+New York,at_large,41,carter,democratic,3389558,3100791,6525225,4303,12197
+North Carolina,at_large,13,carter,democratic,927365,741960,1677906,0,2219
+North Dakota,at_large,3,gerald_ford,republican,136078,153470,297094,2952,256
+Ohio,at_large,25,carter,democratic,2011621,2000505,4111873,58258,8961
+Oklahoma,at_large,8,gerald_ford,republican,532442,545708,1092251,14101,0
+Oregon,at_large,6,gerald_ford,republican,490407,492120,1029876,40207,0
+Pennsylvania,at_large,27,carter,democratic,2328677,2205604,4620787,50584,0
+Rhode Island,at_large,4,carter,democratic,227636,181249,411170,479,715
+South Carolina,at_large,8,carter,democratic,450825,346140,802594,0,0
+South Dakota,at_large,4,gerald_ford,republican,147068,151505,300678,0,1619
+Tennessee,at_large,10,carter,democratic,825879,633969,1476346,5004,1375
+Texas,at_large,26,carter,democratic,2082319,1953300,4071884,20118,263
+Utah,at_large,4,gerald_ford,republican,182110,337908,541198,3907,2438
+Vermont,at_large,3,gerald_ford,republican,81044,102085,187855,4001,4
+Virginia,at_large,12,gerald_ford,republican,813896,836554,1697094,0,4648
+Washington,at_large,9,gerald_ford,republican,717323,777732,1555534,36986,5042
+West Virginia,at_large,6,carter,democratic,435914,314760,750674,0,0
+Wisconsin,at_large,11,carter,democratic,1040232,1004987,2101336,34943,3814
+Wyoming,at_large,3,gerald_ford,republican,62239,92717,156343,624,89

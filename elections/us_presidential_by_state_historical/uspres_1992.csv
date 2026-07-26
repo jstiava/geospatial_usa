@@ -1,0 +1,57 @@
+state,district,electoral_votes,statewide_plurality_candidate,statewide_plurality_party,w_clinton_total_vote,ghwbush1_total_vote,total_vote,other_total_vote,ross_perot_total_vote,marrou_total_vote
+Alabama,at_large,9,ghwbush1,republican,690080,804283,1688060,4851,183109,5737
+Alaska,at_large,3,ghwbush1,republican,78294,102000,258506,3353,73481,1378
+Arizona,at_large,8,ghwbush1,republican,543050,572086,1486975,11339,353741,6759
+Arkansas,at_large,6,w_clinton,democratic,505823,337324,950653,7113,99132,1261
+California,at_large,54,w_clinton,democratic,5121325,3630574,11131721,35677,2296006,48139
+Colorado,at_large,8,w_clinton,democratic,629681,562850,1569180,1970,366010,8669
+Connecticut,at_large,8,w_clinton,democratic,682318,578313,1616332,1539,348771,5391
+Delaware,at_large,3,w_clinton,democratic,126055,102313,289735,1219,59213,935
+District of Columbia,at_large,3,w_clinton,democratic,192619,20698,227572,4107,9681,467
+Florida,at_large,25,ghwbush1,republican,2072798,2173310,5314392,238,1053067,15079
+Georgia,at_large,13,w_clinton,democratic,1008966,995252,2321125,140,309657,7110
+Hawaii,at_large,4,w_clinton,democratic,179310,136822,372842,2588,53003,1119
+Idaho,at_large,4,ghwbush1,republican,137013,202645,482142,10922,130395,1167
+Illinois,at_large,22,w_clinton,democratic,2453350,1734096,5050157,12978,840515,9218
+Indiana,at_large,12,ghwbush1,republican,848420,989375,2305871,4206,455934,7936
+Iowa,at_large,7,w_clinton,democratic,586353,504891,1354607,8819,253468,1076
+Kansas,at_large,6,ghwbush1,republican,390434,449951,1157236,179,312358,4314
+Kentucky,at_large,8,w_clinton,democratic,665104,617178,1492900,2161,203944,4513
+Louisiana,at_large,9,w_clinton,democratic,815971,733386,1790017,26027,211478,3155
+Maine,at_large,2,w_clinton,democratic,263420,206504,679499,1074,206820,1681
+Maine,ME-01,1,w_clinton,democratic,145191,115697,363716,0,102828,–
+Maine,ME-02,1,w_clinton,democratic,118229,90807,313028,0,103992,–
+Maryland,at_large,10,w_clinton,democratic,988571,707094,1985046,3252,281414,4715
+Massachusetts,at_large,12,w_clinton,democratic,1318639,805039,2773664,10234,630731,9021
+Michigan,at_large,18,w_clinton,democratic,1871182,1554940,4274673,13563,824813,10175
+Minnesota,at_large,10,w_clinton,democratic,1020997,747841,2347947,13230,562506,3373
+Mississippi,at_large,7,ghwbush1,republican,400258,487793,981793,5962,85626,2154
+Missouri,at_large,11,w_clinton,democratic,1053873,811159,2391565,295,518741,7497
+Montana,at_large,3,w_clinton,democratic,154507,144207,410611,3686,107225,986
+Nebraska,at_large,2,ghwbush1,republican,217344,344346,739283,1562,174687,1344
+Nebraska,NE-01,1,ghwbush1,republican,80696,107081,247751,0,59974,0
+Nebraska,NE-02,1,ghwbush1,republican,78701,115255,242613,0,48657,0
+Nebraska,NE-03,1,ghwbush1,republican,57467,121342,244282,0,65473,0
+Nevada,at_large,4,w_clinton,democratic,189148,175828,506318,6927,132580,1835
+New Hampshire,at_large,4,w_clinton,democratic,209040,202484,537945,1536,121337,3548
+New Jersey,at_large,15,w_clinton,democratic,1436206,1356865,3343594,21872,521829,6822
+New Mexico,at_large,5,w_clinton,democratic,261617,212824,569986,2035,91895,1615
+New York,at_large,33,w_clinton,democratic,3444450,2346649,6926933,31662,1090721,13451
+North Carolina,at_large,14,ghwbush1,republican,1114042,1134661,2611850,112,357864,5171
+North Dakota,at_large,3,ghwbush1,republican,99168,136244,308133,1221,71084,416
+Ohio,at_large,21,w_clinton,democratic,1984942,1894310,4939964,17034,1036426,7252
+Oklahoma,at_large,8,ghwbush1,republican,473066,592929,1390359,0,319878,4486
+Oregon,at_large,7,w_clinton,democratic,621314,475757,1462643,7204,354091,4277
+Pennsylvania,at_large,23,w_clinton,democratic,2239164,1791841,4959810,4661,902667,21477
+Rhode Island,at_large,4,w_clinton,democratic,213302,131601,453478,2959,105045,571
+South Carolina,at_large,8,ghwbush1,republican,479514,577507,1202527,3915,138872,2719
+South Dakota,at_large,3,ghwbush1,republican,124888,136718,336254,539,73295,814
+Tennessee,at_large,11,w_clinton,democratic,933521,841300,1982638,6002,199968,1847
+Texas,at_large,32,ghwbush1,republican,2281815,2496071,6154018,1652,1354781,19699
+Utah,at_large,5,ghwbush1,republican,183429,322632,743999,32638,203400,1900
+Vermont,at_large,3,w_clinton,democratic,133592,88122,289701,1495,65991,501
+Virginia,at_large,13,ghwbush1,republican,1038650,1150517,2558665,15129,348639,5730
+Washington,at_large,11,w_clinton,democratic,993039,731235,2288228,14641,541780,7533
+West Virginia,at_large,5,w_clinton,democratic,331001,241974,683677,0,108829,1873
+Wisconsin,at_large,11,w_clinton,democratic,1041066,930855,2531114,11837,544479,2877
+Wyoming,at_large,3,ghwbush1,republican,68160,79347,200587,973,51263,844
