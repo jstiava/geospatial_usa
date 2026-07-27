@@ -1,0 +1,13 @@
+Shapefile Data Disclaimer
+
+Fair Lines America Foundation has provided these data layers as a public service for informational purposes only.
+
+Data layers were compiled from official sources, where avalable but are NOT to be construed or used as a "legal description".  
+
+Data layers are believed to be accurate, but accuracy is not guaranteed.  
+
+While Fair Lines America Foundation has attempted to ensure the information contained in these data layers is accurate, we expressly disclaim all warranties of any type, expressed or implied, including but not limited to, any warranty as to the accuracy of the data or fitness for a particular purpose.  
+
+Fair Lines America Foundation does not assume any liability for any errors, omissions, or inaccuracies in the information provided regardless of the cause of such or for any decision made, action taken, or action not taken by the user in reliance upon any data provided herein.
+
+Use of these data layers assumes that you understand and agree with the information provided in this disclaimer.

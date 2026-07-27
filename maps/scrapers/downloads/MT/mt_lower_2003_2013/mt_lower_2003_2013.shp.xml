@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Montana Legislative Services Division</origin>
+				<pubdate>20030205</pubdate>
+				<title>Montana 2005-2013 Legislative Districts</title>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Helena, Montana</pubplace>
+					<publish>Montana State Library</publish>
+				</pubinfo>
+				<othercit>The former name of the data set on the NRIS web site was "leg2004"</othercit>
+				<onlink>ftp://ftp.geoinfo.msl.mt.gov/Data/Spatial/NonMSDI/Shapefiles/Legislature2005.zip</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Montana Legislative Districts for the 2005 through 2013 Legislatures.  Each polygon represents a House District.  Senate Districts are each composed of two House Districts, whose district numbers equal twice the Senate District number and twice the Senate District number, minus one</abstract>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>2004</begdate>
+					<enddate>2014</enddate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>Decennial</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-116.178342</westbc>
+				<eastbc>-103.611153</eastbc>
+				<northbc>49.180943</northbc>
+				<southbc>44.238014</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>boundaries</themekey>
+			</theme>
+			<theme>
+				<themekey>legislature</themekey>
+				<themekey>legislator</themekey>
+				<themekey>representative</themekey>
+				<themekey>senator</themekey>
+				<themekey>assembly</themekey>
+			</theme>
+			<place>
+				<placekey>Montana</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>The Montana State Library provides this product/service for informational purposes only. The Library did not produce it for, nor is it suitable for legal, engineering, or surveying purposes. Consumers of this information should review or consult the primary data and information sources to ascertain the viability of the information for their purposes. The Library provides these data in good faith but does not represent or warrant its accuracy, adequacy, or completeness. In no event shall the Library be liable for any incorrect results or analysis; any direct, indirect, special, or consequential damages to any party; or any lost profits arising out of or in connection with the use or the inability to use the data or the services provided. The Library makes these data and services available as a convenience to the public, and for no other purpose. The Library reserves the right to change or revise published data and/or services at any time.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Montana State Library</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 201800</address>
+					<city>Helena</city>
+					<state>Montana</state>
+					<postal>59620-1800</postal>
+				</cntaddr>
+				<cntvoice>406-444-5354</cntvoice>
+				<cnttdd>406-444-4799</cnttdd>
+				<cntfax>406-444-0266</cntfax>
+				<cntemail>geoinfo@mt.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<browse>
+			<browsen>ftp://ftp.geoinfo.msl.mt.gov/Documents/Maps/Thumbnails/20030728_495_thumb.jpg</browsen>
+			<browsed>Thumbnail of Montana 2004-2013 Legislative Districts map</browsed>
+		</browse>
+		<browse>
+			<browsen>ftp://ftp.geoinfo.msl.mt.gov/Documents/Maps/Individual/20030728_495_2005_MTLegDist.pdf</browsen>
+			<browsed>Montana 2004-2013 Legislative Districts map</browsed>
+		</browse>
+		<browse>
+			<browsen>ftp://ftp.geoinfo.msl.mt.gov/Documents/Maps/Individual/20030728_496_2005_MTLegDistTowns.pdf</browsen>
+			<browsed>Montana cities 2004-2013 Legislative Districts detail maps</browsed>
+		</browse>
+	</idinfo>
+	<dataqual>
+		<posacc>
+			<horizpa>
+				<horizpar>The district boundary coordinates are from U.S. Census Bureau 2000 Redistricting TIGER/Line files.  These files are mostly based on 1:100,000 scale data, which have a positional accuracy of approximately 50 meters, or 160 feet.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau</origin>
+						<pubdate>2000</pubdate>
+						<title>TIGER/Line Files</title>
+						<edition>Redistricting Census 2000</edition>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>U.S. Census Bureau</publish>
+						</pubinfo>
+						<onlink>http://www.census.gov/geo/www/tiger/rd_2ktiger/tgr2kweb.html</onlink>
+						<onlink>http://www.census.gov/geo/www/tiger/</onlink>
+					</citeinfo>
+				</srccite>
+				<srcscale>100000</srcscale>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>2000</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>publication date</srccurr>
+				</srctime>
+				<srccitea>TIGER 2000</srccitea>
+				<srccontr>The coordinates of the district boundaries are from this source.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Census Bureau</origin>
+						<pubdate>2001</pubdate>
+						<title>Public Law 94-171 Files</title>
+						<geoform>tabular digital data</geoform>
+						<pubinfo>
+							<pubplace>Washington, DC</pubplace>
+							<publish>U.S. Census Bureau</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srctime>
+					<timeinfo>
+						<sngdate>
+							<caldate>20000401</caldate>
+						</sngdate>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>PL94-171</srccitea>
+				<srccontr>This is the source of the population data that the Montana Redistricting and Apportionment Commission used to create districts of approximately equal population.</srccontr>
+			</srcinfo>
+			<procstep>
+				<procdesc>Convert TIGER data to ESRI shapefile data showing census geography, using AutoBound version 4 software (Digital Engineering Corporation, Annapolis MD, 410-295-3333).</procdesc>
+				<procdate>2001</procdate>
+				<proccont>
+				</proccont>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Montana Legislative Services Division</cntorg>
+							<cntper>Hank Trenk</cntper>
+						</cntorgp>
+						<cntvoice>406-444-3064</cntvoice>
+						<cntemail>htrenk@mt.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+			<procstep>
+				<procdesc>Define legislative districts and save them as an ESRI shapefile.</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntorgp>
+							<cntorg>Montana Legislative Services Division</cntorg>
+							<cntper>Susan Fox</cntper>
+						</cntorgp>
+						<cntvoice>406-444-3064</cntvoice>
+						<cntemail>sfox@mt.gov</cntemail>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spdoinfo>
+		<direct>Vector</direct>
+		<ptvctinf>
+			<sdtsterm>
+				<sdtstype>G-polygon</sdtstype>
+				<ptvctcnt>100</ptvctcnt>
+			</sdtsterm>
+		</ptvctinf>
+	</spdoinfo>
+	<spref>
+		<horizsys>
+			<planar>
+				<gridsys>
+					<gridsysn>State Plane Coordinate System</gridsysn>
+					<spcs>
+						<spcszone>2500</spcszone>
+						<lambertc>
+							<stdparll>45.000000</stdparll>
+							<stdparll>49.000000</stdparll>
+							<longcm>-109.500000</longcm>
+							<latprjo>44.250000</latprjo>
+							<feast>600000.000000</feast>
+							<fnorth>0.000000</fnorth>
+						</lambertc>
+					</spcs>
+				</gridsys>
+				<planci>
+					<plandu>meters</plandu>
+				</planci>
+			</planar>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>Legislature2005.dbf</enttypl>
+			</enttyp>
+			<attr>
+				<attrlabl>FID</attrlabl>
+				<attrdef>Shapefile sequence number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>Shape</attrlabl>
+				<attrdef>Feature geometry</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>AREA</attrlabl>
+				<attrdef>Area of feature in square meters</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>PERIMETER</attrlabl>
+				<attrdef>Perimeter of feature in meters</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>LEG2004_</attrlabl>
+				<attrdef>Sequence number from original coverage version of the data</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>LEG2004_ID</attrlabl>
+				<attrdef>ID number from original coverage version of the data</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>HOUSE</attrlabl>
+				<attrdef>Montana House District number</attrdef>
+			</attr>
+			<attr>
+				<attrlabl>SENATE</attrlabl>
+				<attrdef>Montana Senate District number</attrdef>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Montana State Library</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>PO Box 201800</address>
+					<city>Helena</city>
+					<state>MT</state>
+					<postal>59620-1800</postal>
+				</cntaddr>
+				<cntvoice>406-444-5354</cntvoice>
+				<cnttdd>406-444-4799</cnttdd>
+				<cntfax>406-444-0266</cntfax>
+				<cntemail>geoinfo@mt.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<distliab>The Montana State Library provides this product/service for informational purposes only. The Library did not produce it for, nor is it suitable for legal, engineering, or surveying purposes. Consumers of this information should review or consult the primary data and information sources to ascertain the viability of the information for their purposes. The Library provides these data in good faith but does not represent or warrant its accuracy, adequacy, or completeness. In no event shall the Library be liable for any incorrect results or analysis; any direct, indirect, special, or consequential damages to any party; or any lost profits arising out of or in connection with the use or the inability to use the data or the services provided. The Library makes these data and services available as a convenience to the public, and for no other purpose. The Library reserves the right to change or revise published data and/or services at any time.</distliab>
+		<resdesc>Downloadable Data</resdesc>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>ESRI Shapefile</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>ftp://ftp.geoinfo.msl.mt.gov/Data/Spatial/NonMSDI/Shapefiles/Legislature2005.zip</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20140116</metd>
+		<metrd>20130417</metrd>
+		<metrd>20040929</metrd>
+		<metrd>20030728</metrd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Montana State Library</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>P.O. Box 201800</address>
+					<city>Helena</city>
+					<state>Montana</state>
+					<postal>59620-1800</postal>
+				</cntaddr>
+				<cntvoice>406-444-5354</cntvoice>
+				<cnttdd>406-444-4799</cnttdd>
+				<cntfax>406-444-0266</cntfax>
+				<cntemail>geoinfo@mt.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+	</metainfo>
+	<Esri>
+		<CreaDate>20210310</CreaDate><CreaTime>10521300</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce></Esri>
+</metadata>
