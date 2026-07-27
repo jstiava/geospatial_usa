@@ -1,0 +1,1 @@
+The MN Supreme Court ordered CD, LD, and SD plans to be drawn and were approved on 02/15/2022. On 06/02/2022 the governor signed SF 4476 which made minor changes to CD 07/08, SD 15/16, and LD 58A/58B. 
