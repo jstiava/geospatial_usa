@@ -1,6 +1,12 @@
+## Districts
+- State -> Counties -> Townships
+- State -> CD
+- State -> County -> Census Tract
+- State -> Places(only for metropolitan areas)
+- State -> UCLD
+- State -> UCLD -> LCLD(in some states)
+
 ## Offices
-
-
 ### Federal
 #### Positions
 - US President
@@ -17,6 +23,7 @@
 - State Senators
 - State Representatives
 - State Courts
+
 #### Policies
 - Income taxes
 - Excise taxes
@@ -31,4 +38,4 @@
 ### City
 #### Positions
 - Mayor
-- City Council
+- City Council, Alders by Ward
